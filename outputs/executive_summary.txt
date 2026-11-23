@@ -1,0 +1,138 @@
+
+============================================================
+EXECUTIVE SUMMARY
+SOUTH KOREA TOP 50 PLAYLIST ANALYSIS
+============================================================
+
+PROJECT TITLE:
+Comeback Momentum, Chart Re-Entry, and Fandom Intensity
+Analysis of South Korea Top 50 Playlist
+
+1. PROJECT OVERVIEW
+
+This project analyses chart re-entry patterns, comeback
+frequency, retention, rank recovery, momentum, and
+chart-based fandom intensity indicators in South Korea's
+Top 50 music playlist.
+
+The analysis identifies songs that return to the chart
+after confirmed exits and examines their subsequent
+chart performance.
+
+2. DATASET OVERVIEW
+
+Total unique songs with confirmed comebacks: 228
+Total confirmed comeback events: 863
+Total artists analysed: 111
+
+The main analysis excludes all 100 records from
+1 March 2025 because that date contained two distinct
+50-song chart lists without enough information to identify
+the authoritative snapshot.
+
+3. COMEBACK FREQUENCY FINDINGS
+
+Top song by comeback frequency:
+Our Blues, Our Life - Lim Young Woong
+
+Confirmed comeback events:
+28
+
+Top artist by comeback frequency:
+Lim Young Woong
+
+Total artist comeback events:
+159
+
+4. RETENTION ANALYSIS
+
+Average retention across analysed songs:
+8.36 days
+
+Longest individual comeback retention:
+214 days
+
+Song:
+If We Ever Meet Again - Lim Young Woong
+
+Retention measures consecutive observed calendar
+dates on the chart after a comeback.
+
+5. MOMENTUM ANALYSIS
+
+Average Momentum Spike Score:
+5.63
+
+The momentum score is a custom relative indicator
+combining normalized rank improvement and retention.
+
+It is not an industry-standard metric or a direct
+measurement of streaming activity.
+
+6. FANDOM INTENSITY PROXY ANALYSIS
+
+Average Fandom Intensity Proxy Score:
+15.45
+
+Highest-scoring song:
+Our Blues, Our Life - Lim Young Woong
+
+Proxy score:
+43.72
+
+Category distribution:
+fandom_category
+Low Proxy Intensity         224
+Moderate Proxy Intensity      4
+
+This score uses chart recurrence, retention,
+rank improvement, and momentum as indirect indicators.
+It does not measure actual fanbase size or fan engagement.
+
+7. ALBUM VS SINGLE COMPARISON
+
+Average retention of album tracks:
+9.86 days
+
+Average retention of singles:
+7.29 days
+
+The comparison is observational and does not establish
+that album tracks inherently perform better than singles.
+
+8. KEY CONCLUSIONS
+
+- Repeated chart re-entry is an important indicator
+  of recurring chart activity.
+
+- Comeback frequency and retention represent different
+  aspects of chart performance.
+
+- Some songs achieve long retention despite having
+  relatively few comeback events.
+
+- Artist-level comeback activity varies considerably.
+
+- The fandom intensity score is a chart-based proxy,
+  not a direct measure of fandom size.
+
+9. RESEARCH LIMITATIONS
+
+- The dataset does not provide direct fan engagement
+  or streaming-count measurements.
+
+- Missing calendar dates limit the certainty of
+  some exit and re-entry observations.
+
+- The 1 March 2025 chart snapshot was excluded because
+  two distinct lists were present.
+
+- The momentum and fandom proxy scores are custom
+  analytical indicators.
+
+- The findings describe observed chart behaviour
+  and do not establish causal relationships.
+
+============================================================
+END OF EXECUTIVE SUMMARY
+============================================================

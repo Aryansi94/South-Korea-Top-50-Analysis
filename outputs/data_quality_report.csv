@@ -1,0 +1,10 @@
+Metric,Value
+Original rows,27800
+Original columns,10
+Invalid dates,0
+Exact duplicate rows in original,16
+Records excluded from 2025-03-01,100
+Cleaned analysis rows,27700
+Dates with exactly 50 records,554
+Dates with unusual record counts,0
+Duplicate date-position records after exclusion,0

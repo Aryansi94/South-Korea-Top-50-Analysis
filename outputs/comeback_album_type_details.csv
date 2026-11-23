@@ -1,0 +1,864 @@
+date,song_artist_key,event,current_rank,previous_rank,rank_change,rank_improvement,comeback_performance,song,artist,comeback_date,retention_days,positive_rank_improvement,rank_score,retention_score,momentum_spike_score,momentum_category,album_type
+2024-05-21,kill bill | sza,Confirmed Re-entry,46.0,46.0,0.0,0.0,No Rank Change,Kill Bill,SZA,2024-05-21,20,0.0,0.0,8.92018779342723,2.68,Low Momentum,album
+2024-05-21,love dive | ive,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,LOVE DIVE,IVE,2024-05-21,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-05-21,teddy bear | stayc,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,Teddy Bear,STAYC,2024-05-21,7,0.0,0.0,2.8169014084507045,0.85,Low Momentum,single
+2024-05-23,love always run away | lim young woong,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,Love Always Run Away,Lim Young Woong,2024-05-23,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,single
+2024-05-24,interlude : dive | jimin,Confirmed Re-entry,48.0,38.0,-10.0,-10.0,Rank Declined,Interlude : Dive,Jimin,2024-05-24,66,0.0,0.0,30.51643192488263,9.15,Low Momentum,single
+2024-05-24,vibe (feat. jimin of bts) | taeyang,Confirmed Re-entry,43.0,49.0,6.0,6.0,Rank Improved,VIBE (feat. Jimin of BTS),TAEYANG,2024-05-24,12,6.0,21.428571428571427,5.164319248826291,16.55,Low Momentum,album
+2024-05-25,love always run away | lim young woong,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,Love Always Run Away,Lim Young Woong,2024-05-25,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-05-28,promise | jimin,Confirmed Re-entry,45.0,43.0,-2.0,-2.0,Rank Declined,Promise,Jimin,2024-05-28,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-05-28,like crazy (uk garage remix) | jimin,Confirmed Re-entry,44.0,47.0,3.0,3.0,Rank Improved,Like Crazy (UK Garage Remix),Jimin,2024-05-28,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,single
+2024-05-28,like crazy (deep house remix) | jimin,Confirmed Re-entry,43.0,46.0,3.0,3.0,Rank Improved,Like Crazy (Deep House Remix),Jimin,2024-05-28,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,single
+2024-05-29,love dive | ive,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,LOVE DIVE,IVE,2024-05-29,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2024-05-29,teddy bear | stayc,Confirmed Re-entry,45.0,49.0,4.0,4.0,Rank Improved,Teddy Bear,STAYC,2024-05-29,1,4.0,14.285714285714285,0.0,10.0,Low Momentum,single
+2024-05-30,love always run away | lim young woong,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Love Always Run Away,Lim Young Woong,2024-05-30,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,single
+2024-05-30,promise | jimin,Confirmed Re-entry,42.0,45.0,3.0,3.0,Rank Improved,Promise,Jimin,2024-05-30,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,single
+2024-05-30,like crazy (deep house remix) | jimin,Confirmed Re-entry,48.0,43.0,-5.0,-5.0,Rank Declined,Like Crazy (Deep House Remix),Jimin,2024-05-30,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-05-30,i love you | lim young woong,Confirmed Re-entry,46.0,47.0,1.0,1.0,Rank Improved,I Love You,Lim Young Woong,2024-05-30,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,album
+2024-05-31,candy (feat. zion.t) | jay park,Confirmed Re-entry,47.0,49.0,2.0,2.0,Rank Improved,Candy (Feat. Zion.T),Jay Park,2024-05-31,2,2.0,7.142857142857142,0.4694835680751174,5.14,Low Momentum,single
+2024-05-31,teddy bear | stayc,Confirmed Re-entry,48.0,45.0,-3.0,-3.0,Rank Declined,Teddy Bear,STAYC,2024-05-31,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2024-06-01,like crazy (uk garage remix) | jimin,Confirmed Re-entry,50.0,44.0,-6.0,-6.0,Rank Declined,Like Crazy (UK Garage Remix),Jimin,2024-06-01,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-06-01,like crazy (deep house remix) | jimin,Confirmed Re-entry,47.0,48.0,1.0,1.0,Rank Improved,Like Crazy (Deep House Remix),Jimin,2024-06-01,3,1.0,3.571428571428571,0.9389671361502347,2.78,Low Momentum,single
+2024-06-02,love always run away | lim young woong,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Love Always Run Away,Lim Young Woong,2024-06-02,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-06-02,promise | jimin,Confirmed Re-entry,42.0,42.0,0.0,0.0,No Rank Change,Promise,Jimin,2024-06-02,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-06-03,night dancer - big naughty remix | imase & big naughty,Confirmed Re-entry,50.0,41.0,-9.0,-9.0,Rank Declined,NIGHT DANCER - BIG Naughty Remix,imase & BIG Naughty,2024-06-03,7,0.0,0.0,2.8169014084507045,0.85,Low Momentum,single
+2024-06-03,i love you | lim young woong,Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,I Love You,Lim Young Woong,2024-06-03,4,6.0,21.428571428571427,1.4084507042253522,15.42,Low Momentum,album
+2024-06-03,like crazy (uk garage remix) | jimin,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Like Crazy (UK Garage Remix),Jimin,2024-06-03,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2024-06-03,lovely touch | lim young woong,Confirmed Re-entry,48.0,45.0,-3.0,-3.0,Rank Declined,Lovely Touch,Lim Young Woong,2024-06-03,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-06-04,dangerously | charlie puth,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,Dangerously,Charlie Puth,2024-06-04,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,album
+2024-06-05,love always run away | lim young woong,Confirmed Re-entry,48.0,47.0,-1.0,-1.0,Rank Declined,Love Always Run Away,Lim Young Woong,2024-06-05,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2024-06-05,teddy bear | stayc,Confirmed Re-entry,46.0,49.0,3.0,3.0,Rank Improved,Teddy Bear,STAYC,2024-06-05,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,single
+2024-06-05,candy (feat. zion.t) | jay park,Confirmed Re-entry,45.0,45.0,0.0,0.0,No Rank Change,Candy (Feat. Zion.T),Jay Park,2024-06-05,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-06-05,love me like this | nmixx,Confirmed Re-entry,50.0,46.0,-4.0,-4.0,Rank Declined,Love Me Like This,NMIXX,2024-06-05,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-06-05,lovely touch | lim young woong,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Lovely Touch,Lim Young Woong,2024-06-05,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-06-06,vibe (feat. jimin of bts) | taeyang,Confirmed Re-entry,45.0,36.0,-9.0,-9.0,Rank Declined,VIBE (feat. Jimin of BTS),TAEYANG,2024-06-06,40,0.0,0.0,18.309859154929576,5.49,Low Momentum,album
+2024-06-06,fighting (feat. lee young ji) | bss,Confirmed Re-entry,49.0,45.0,-4.0,-4.0,Rank Declined,Fighting (Feat. Lee Young Ji),BSS,2024-06-06,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-06-07,people pt.2 (feat. iu) | agust d,Confirmed Re-entry,45.0,43.0,-2.0,-2.0,Rank Declined,People Pt.2 (feat. IU),Agust D,2024-06-07,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-06-07,love me like this | nmixx,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Love Me Like This,NMIXX,2024-06-07,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-06-08,like crazy (deep house remix) | jimin,Confirmed Re-entry,45.0,46.0,1.0,1.0,Rank Improved,Like Crazy (Deep House Remix),Jimin,2024-06-08,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2024-06-08,promise | jimin,Confirmed Re-entry,50.0,42.0,-8.0,-8.0,Rank Declined,Promise,Jimin,2024-06-08,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-06-08,like crazy (uk garage remix) | jimin,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Like Crazy (UK Garage Remix),Jimin,2024-06-08,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-06-08,with you | jimin & ha sung woon,Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,With you,Jimin & HA SUNG WOON,2024-06-08,17,6.0,21.428571428571427,7.511737089201878,17.25,Low Momentum,single
+2024-06-09,a bientot | lim young woong,Confirmed Re-entry,44.0,41.0,-3.0,-3.0,Rank Declined,A bientot,Lim Young Woong,2024-06-09,12,0.0,0.0,5.164319248826291,1.55,Low Momentum,album
+2024-06-09,love always run away | lim young woong,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,Love Always Run Away,Lim Young Woong,2024-06-09,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-06-09,dance the night (from barbie the album) | dua lipa,Confirmed Re-entry,46.0,42.0,-4.0,-4.0,Rank Declined,Dance The Night (From Barbie The Album),Dua Lipa,2024-06-09,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-06-09,candy (feat. zion.t) | jay park,Confirmed Re-entry,50.0,45.0,-5.0,-5.0,Rank Declined,Candy (Feat. Zion.T),Jay Park,2024-06-09,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-06-10,promise | jimin,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Promise,Jimin,2024-06-10,17,0.0,0.0,7.511737089201878,2.25,Low Momentum,single
+2024-06-10,i love you | lim young woong,Confirmed Re-entry,46.0,43.0,-3.0,-3.0,Rank Declined,I Love You,Lim Young Woong,2024-06-10,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-06-10,like crazy (uk garage remix) | jimin,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,Like Crazy (UK Garage Remix),Jimin,2024-06-10,8,1.0,3.571428571428571,3.286384976525822,3.49,Low Momentum,single
+2024-06-10,like crazy (deep house remix) | jimin,Confirmed Re-entry,45.0,45.0,0.0,0.0,No Rank Change,Like Crazy (Deep House Remix),Jimin,2024-06-10,8,0.0,0.0,3.286384976525822,0.99,Low Momentum,single
+2024-06-11,kill bill | sza,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Kill Bill,SZA,2024-06-11,9,0.0,0.0,3.755868544600939,1.13,Low Momentum,album
+2024-06-12,vancouver | big naughty,Confirmed Re-entry,50.0,39.0,-11.0,-11.0,Rank Declined,Vancouver,BIG Naughty,2024-06-12,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-06-13,love always run away | lim young woong,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,Love Always Run Away,Lim Young Woong,2024-06-13,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-06-13,i love you | lim young woong,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,I Love You,Lim Young Woong,2024-06-13,2,4.0,14.285714285714285,0.4694835680751174,10.14,Low Momentum,album
+2024-06-13,dangerously | charlie puth,Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,Dangerously,Charlie Puth,2024-06-13,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-06-14,filter | bts,Confirmed Re-entry,43.0,46.0,3.0,3.0,Rank Improved,Filter,BTS,2024-06-14,2,3.0,10.714285714285714,0.4694835680751174,7.64,Low Momentum,album
+2024-06-14,like crazy (instrumental) | jimin,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,Like Crazy (Instrumental),Jimin,2024-06-14,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-06-14,bite me | enhypen,Confirmed Re-entry,47.0,49.0,2.0,2.0,Rank Improved,Bite Me,ENHYPEN,2024-06-14,5,2.0,7.142857142857142,1.8779342723004695,5.56,Low Momentum,single
+2024-06-16,haegeum | agust d,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,Haegeum,Agust D,2024-06-16,3,1.0,3.571428571428571,0.9389671361502347,2.78,Low Momentum,album
+2024-06-16,i don’t think that i like her | charlie puth,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,I Don’t Think That I Like Her,Charlie Puth,2024-06-16,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-06-16,dangerously | charlie puth,Confirmed Re-entry,44.0,49.0,5.0,5.0,Rank Improved,Dangerously,Charlie Puth,2024-06-16,5,5.0,17.857142857142854,1.8779342723004695,13.06,Low Momentum,album
+2024-06-18,i don’t think that i like her | charlie puth,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,I Don’t Think That I Like Her,Charlie Puth,2024-06-18,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2024-06-19,love dive | ive,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,LOVE DIVE,IVE,2024-06-19,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2024-06-20,like crazy (uk garage remix) | jimin,Confirmed Re-entry,42.0,48.0,6.0,6.0,Rank Improved,Like Crazy (UK Garage Remix),Jimin,2024-06-20,5,6.0,21.428571428571427,1.8779342723004695,15.56,Low Momentum,single
+2024-06-20,like crazy (deep house remix) | jimin,Confirmed Re-entry,43.0,46.0,3.0,3.0,Rank Improved,Like Crazy (Deep House Remix),Jimin,2024-06-20,5,3.0,10.714285714285714,1.8779342723004695,8.06,Low Momentum,single
+2024-06-21,haegeum | agust d,Confirmed Re-entry,50.0,45.0,-5.0,-5.0,Rank Declined,Haegeum,Agust D,2024-06-21,114,0.0,0.0,53.05164319248827,15.92,Low Momentum,album
+2024-06-21,filter | bts,Confirmed Re-entry,47.0,45.0,-2.0,-2.0,Rank Declined,Filter,BTS,2024-06-21,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-06-21,like crazy (instrumental) | jimin,Confirmed Re-entry,41.0,48.0,7.0,7.0,Rank Improved,Like Crazy (Instrumental),Jimin,2024-06-21,2,7.0,25.0,0.4694835680751174,17.64,Low Momentum,single
+2024-06-21,christmas love | jimin,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Christmas Love,Jimin,2024-06-21,2,2.0,7.142857142857142,0.4694835680751174,5.14,Low Momentum,single
+2024-06-22,a bientot | lim young woong,Confirmed Re-entry,46.0,48.0,2.0,2.0,Rank Improved,A bientot,Lim Young Woong,2024-06-22,13,2.0,7.142857142857142,5.633802816901409,6.69,Low Momentum,album
+2024-06-22,the planet | bts,Confirmed Re-entry,42.0,46.0,4.0,4.0,Rank Improved,The Planet,BTS,2024-06-22,3,4.0,14.285714285714285,0.9389671361502347,10.28,Low Momentum,single
+2024-06-23,kill bill | sza,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,Kill Bill,SZA,2024-06-23,12,0.0,0.0,5.164319248826291,1.55,Low Momentum,album
+2024-06-23,flower | jisoo,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,FLOWER,JISOO,2024-06-23,5,1.0,3.571428571428571,1.8779342723004695,3.06,Low Momentum,single
+2024-06-25,i don’t think that i like her | charlie puth,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,I Don’t Think That I Like Her,Charlie Puth,2024-06-25,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,album
+2024-06-27,like crazy (uk garage remix) | jimin,Confirmed Re-entry,46.0,49.0,3.0,3.0,Rank Improved,Like Crazy (UK Garage Remix),Jimin,2024-06-27,5,3.0,10.714285714285714,1.8779342723004695,8.06,Low Momentum,single
+2024-06-27,like crazy (deep house remix) | jimin,Confirmed Re-entry,45.0,47.0,2.0,2.0,Rank Improved,Like Crazy (Deep House Remix),Jimin,2024-06-27,5,2.0,7.142857142857142,1.8779342723004695,5.56,Low Momentum,single
+2024-06-28,promise | jimin,Confirmed Re-entry,42.0,45.0,3.0,3.0,Rank Improved,Promise,Jimin,2024-06-28,4,3.0,10.714285714285714,1.4084507042253522,7.92,Low Momentum,single
+2024-06-28,with you | jimin & ha sung woon,Confirmed Re-entry,43.0,43.0,0.0,0.0,No Rank Change,With you,Jimin & HA SUNG WOON,2024-06-28,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-06-29,flower | jisoo,Confirmed Re-entry,44.0,40.0,-4.0,-4.0,Rank Declined,FLOWER,JISOO,2024-06-29,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-07-01,i don’t think that i like her | charlie puth,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,I Don’t Think That I Like Her,Charlie Puth,2024-07-01,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-07-01,dangerously | charlie puth,Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,Dangerously,Charlie Puth,2024-07-01,1,6.0,21.428571428571427,0.0,15.0,Low Momentum,album
+2024-07-02,people pt.2 (feat. iu) | agust d,Confirmed Re-entry,35.0,45.0,10.0,10.0,Rank Improved,People Pt.2 (feat. IU),Agust D,2024-07-02,126,10.0,35.71428571428571,58.68544600938967,42.61,Moderate Momentum,album
+2024-07-02,the planet | bts,Confirmed Re-entry,44.0,48.0,4.0,4.0,Rank Improved,The Planet,BTS,2024-07-02,3,4.0,14.285714285714285,0.9389671361502347,10.28,Low Momentum,single
+2024-07-03,promise | jimin,Confirmed Re-entry,47.0,41.0,-6.0,-6.0,Rank Declined,Promise,Jimin,2024-07-03,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-07-03,like crazy (uk garage remix) | jimin,Confirmed Re-entry,50.0,42.0,-8.0,-8.0,Rank Declined,Like Crazy (UK Garage Remix),Jimin,2024-07-03,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-07-03,like crazy (deep house remix) | jimin,Confirmed Re-entry,49.0,39.0,-10.0,-10.0,Rank Declined,Like Crazy (Deep House Remix),Jimin,2024-07-03,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-07-04,thirsty | aespa,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Thirsty,aespa,2024-07-04,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-07-04,dare to love (feat. big naughty) | b.i,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,Dare to Love (feat. BIG Naughty),B.I,2024-07-04,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-07-05,with you | jimin & ha sung woon,Confirmed Re-entry,50.0,43.0,-7.0,-7.0,Rank Declined,With you,Jimin & HA SUNG WOON,2024-07-05,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-07-07,super | seventeen,Confirmed Re-entry,47.0,33.0,-14.0,-14.0,Rank Declined,Super,SEVENTEEN,2024-07-07,22,0.0,0.0,9.859154929577466,2.96,Low Momentum,single
+2024-07-07,promise | jimin,Confirmed Re-entry,46.0,49.0,3.0,3.0,Rank Improved,Promise,Jimin,2024-07-07,4,3.0,10.714285714285714,1.4084507042253522,7.92,Low Momentum,single
+2024-07-07,sunflower - spider-man: into the spider-verse | post malone,Confirmed Re-entry,50.0,32.0,-18.0,-18.0,Rank Declined,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,2024-07-07,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-07-07,cruel summer | taylor swift,Confirmed Re-entry,44.0,35.0,-9.0,-9.0,Rank Declined,Cruel Summer,Taylor Swift,2024-07-07,85,0.0,0.0,39.436619718309856,11.83,Low Momentum,album
+2024-07-07,cupid - twin ver. | fifty fifty,Confirmed Re-entry,43.0,31.0,-12.0,-12.0,Rank Declined,Cupid - Twin Ver.,FIFTY FIFTY,2024-07-07,15,0.0,0.0,6.572769953051644,1.97,Low Momentum,single
+2024-07-07,attention | newjeans,Confirmed Re-entry,37.0,29.0,-8.0,-8.0,Rank Declined,Attention,NewJeans,2024-07-07,55,0.0,0.0,25.352112676056336,7.61,Low Momentum,single
+2024-07-08,rainbow | lim young woong,Confirmed Re-entry,50.0,37.0,-13.0,-13.0,Rank Declined,Rainbow,Lim Young Woong,2024-07-08,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-07-09,like crazy (deep house remix) | jimin,Confirmed Re-entry,46.0,49.0,3.0,3.0,Rank Improved,Like Crazy (Deep House Remix),Jimin,2024-07-09,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,single
+2024-07-09,cupid | fifty fifty,Confirmed Re-entry,50.0,36.0,-14.0,-14.0,Rank Declined,Cupid,FIFTY FIFTY,2024-07-09,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2024-07-10,"our blues, our life | lim young woong",Confirmed Re-entry,45.0,40.0,-5.0,-5.0,Rank Declined,"Our Blues, Our Life",Lim Young Woong,2024-07-10,17,0.0,0.0,7.511737089201878,2.25,Low Momentum,album
+2024-07-10,rainbow | lim young woong,Confirmed Re-entry,43.0,50.0,7.0,7.0,Rank Improved,Rainbow,Lim Young Woong,2024-07-10,17,7.0,25.0,7.511737089201878,19.75,Low Momentum,album
+2024-07-10,sunflower - spider-man: into the spider-verse | post malone,Confirmed Re-entry,46.0,45.0,-1.0,-1.0,Rank Declined,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,2024-07-10,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,album
+2024-07-11,a bientot | lim young woong,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,A bientot,Lim Young Woong,2024-07-11,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-07-12,promise | jimin,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,Promise,Jimin,2024-07-12,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-07-13,a bientot | lim young woong,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,A bientot,Lim Young Woong,2024-07-13,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-07-16,sunflower - spider-man: into the spider-verse | post malone,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,2024-07-16,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-07-16,the planet | bts,Confirmed Re-entry,46.0,43.0,-3.0,-3.0,Rank Declined,The Planet,BTS,2024-07-16,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-07-17,a bientot | lim young woong,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,A bientot,Lim Young Woong,2024-07-17,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-07-17,antifragile | le sserafim,Confirmed Re-entry,49.0,42.0,-7.0,-7.0,Rank Declined,ANTIFRAGILE,LE SSERAFIM,2024-07-17,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-07-17,in bloom | zerobaseone,Confirmed Re-entry,48.0,44.0,-4.0,-4.0,Rank Declined,In Bloom,ZEROBASEONE,2024-07-17,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2024-07-19,seven (feat. latto) (explicit ver.) | jung kook & latto,Confirmed Re-entry,1.0,1.0,0.0,0.0,No Rank Change,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,2024-07-19,108,0.0,0.0,50.23474178403756,15.07,Low Momentum,single
+2024-07-19,seven (feat. latto) (instrumental) | jung kook & latto,Confirmed Re-entry,10.0,10.0,0.0,0.0,No Rank Change,Seven (feat. Latto) (Instrumental),Jung Kook & Latto,2024-07-19,19,0.0,0.0,8.450704225352112,2.54,Low Momentum,single
+2024-07-20,broken melodies | nct dream,Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,Broken Melodies,NCT DREAM,2024-07-20,2,6.0,21.428571428571427,0.4694835680751174,15.14,Low Momentum,single
+2024-07-20,vibe (feat. jimin of bts) | taeyang,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,VIBE (feat. Jimin of BTS),TAEYANG,2024-07-20,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,album
+2024-07-21,sunflower - spider-man: into the spider-verse | post malone,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,2024-07-21,2,2.0,7.142857142857142,0.4694835680751174,5.14,Low Momentum,album
+2024-07-22,in bloom | zerobaseone,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,In Bloom,ZEROBASEONE,2024-07-22,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-07-22,lilith (feat. suga of bts) (diablo iv anthem) | halsey & suga,Confirmed Re-entry,46.0,47.0,1.0,1.0,Rank Improved,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),Halsey & SUGA,2024-07-22,7,1.0,3.571428571428571,2.8169014084507045,3.35,Low Momentum,single
+2024-07-23,a bientot | lim young woong,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,A bientot,Lim Young Woong,2024-07-23,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2024-07-23,flower | jisoo,Confirmed Re-entry,45.0,44.0,-1.0,-1.0,Rank Declined,FLOWER,JISOO,2024-07-23,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-07-25,vampire | olivia rodrigo,Confirmed Re-entry,48.0,42.0,-6.0,-6.0,Rank Declined,vampire,Olivia Rodrigo,2024-07-25,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2024-07-26,dance the night (from barbie the album) | dua lipa,Confirmed Re-entry,45.0,46.0,1.0,1.0,Rank Improved,Dance The Night (From Barbie The Album),Dua Lipa,2024-07-26,3,1.0,3.571428571428571,0.9389671361502347,2.78,Low Momentum,single
+2024-07-26,cupid - twin ver. | fifty fifty,Confirmed Re-entry,49.0,45.0,-4.0,-4.0,Rank Declined,Cupid - Twin Ver.,FIFTY FIFTY,2024-07-26,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-07-27,my you | jung kook,Confirmed Re-entry,49.0,35.0,-14.0,-14.0,Rank Declined,My You,Jung Kook,2024-07-27,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-07-27,seven (feat. latto) (summer mix) | jung kook & latto,Confirmed Re-entry,35.0,12.0,-23.0,-23.0,Rank Declined,Seven (feat. Latto) (Summer Mix),Jung Kook & Latto,2024-07-27,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-07-27,seven (feat. latto) (band ver.) | jung kook & latto,Confirmed Re-entry,34.0,16.0,-18.0,-18.0,Rank Declined,Seven (feat. Latto) (Band Ver.),Jung Kook & Latto,2024-07-27,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2024-07-29,k-pop | travis scott & bad bunny & the weeknd,Confirmed Re-entry,46.0,47.0,1.0,1.0,Rank Improved,K-POP,Travis Scott & Bad Bunny & The Weeknd,2024-07-29,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,single
+2024-07-30,dance the night (from barbie the album) | dua lipa,Confirmed Re-entry,50.0,41.0,-9.0,-9.0,Rank Declined,Dance The Night (From Barbie The Album),Dua Lipa,2024-07-30,13,0.0,0.0,5.633802816901409,1.69,Low Momentum,single
+2024-07-30,interlude : dive | jimin,Confirmed Re-entry,44.0,45.0,1.0,1.0,Rank Improved,Interlude : Dive,Jimin,2024-07-30,45,1.0,3.571428571428571,20.657276995305164,8.7,Low Momentum,single
+2024-07-30,if we ever meet again | lim young woong,Confirmed Re-entry,40.0,43.0,3.0,3.0,Rank Improved,If We Ever Meet Again,Lim Young Woong,2024-07-30,214,3.0,10.714285714285714,100.0,37.5,Low Momentum,album
+2024-07-30,let's say goodbye | parc jae jung,Confirmed Re-entry,38.0,39.0,1.0,1.0,Rank Improved,Let's Say Goodbye,Parc Jae Jung,2024-07-30,45,1.0,3.571428571428571,20.657276995305164,8.7,Low Momentum,album
+2024-07-31,my you | jung kook,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,My You,Jung Kook,2024-07-31,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-07-31,lilith (feat. suga of bts) (diablo iv anthem) | halsey & suga,Confirmed Re-entry,41.0,50.0,9.0,9.0,Rank Improved,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),Halsey & SUGA,2024-07-31,6,9.0,32.14285714285714,2.3474178403755865,23.2,Low Momentum,single
+2024-07-31,super | seventeen,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Super,SEVENTEEN,2024-07-31,9,0.0,0.0,3.755868544600939,1.13,Low Momentum,single
+2024-07-31,"our blues, our life | lim young woong",Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,"Our Blues, Our Life",Lim Young Woong,2024-07-31,18,3.0,10.714285714285714,7.981220657276995,9.89,Low Momentum,album
+2024-07-31,rainbow | lim young woong,Confirmed Re-entry,46.0,48.0,2.0,2.0,Rank Improved,Rainbow,Lim Young Woong,2024-07-31,31,2.0,7.142857142857142,14.084507042253518,9.23,Low Momentum,album
+2024-07-31,vampire | olivia rodrigo,Confirmed Re-entry,48.0,42.0,-6.0,-6.0,Rank Declined,vampire,Olivia Rodrigo,2024-07-31,13,0.0,0.0,5.633802816901409,1.69,Low Momentum,single
+2024-07-31,"angel pt. 2 (feat. jimin of bts, charlie puth and muni long) | fast & furious: the fast saga & jimin & bts",Confirmed Re-entry,45.0,46.0,1.0,1.0,Rank Improved,"Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,2024-07-31,20,1.0,3.571428571428571,8.92018779342723,5.18,Low Momentum,single
+2024-08-02,seven (feat. latto) (band ver.) | jung kook & latto,Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,Seven (feat. Latto) (Band Ver.),Jung Kook & Latto,2024-08-02,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-08-03,my you | jung kook,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,My You,Jung Kook,2024-08-03,2,3.0,10.714285714285714,0.4694835680751174,7.64,Low Momentum,single
+2024-08-04,a bientot | lim young woong,Confirmed Re-entry,50.0,46.0,-4.0,-4.0,Rank Declined,A bientot,Lim Young Woong,2024-08-04,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-08-05,seven (feat. latto) (band ver.) | jung kook & latto,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Seven (feat. Latto) (Band Ver.),Jung Kook & Latto,2024-08-05,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-08-06,a bientot | lim young woong,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,A bientot,Lim Young Woong,2024-08-06,7,1.0,3.571428571428571,2.8169014084507045,3.35,Low Momentum,album
+2024-08-06,cupid - twin ver. | fifty fifty,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Cupid - Twin Ver.,FIFTY FIFTY,2024-08-06,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-08-07,my you | jung kook,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,My You,Jung Kook,2024-08-07,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-08-07,lilith (feat. suga of bts) (diablo iv anthem) | halsey & suga,Confirmed Re-entry,49.0,45.0,-4.0,-4.0,Rank Declined,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),Halsey & SUGA,2024-08-07,17,0.0,0.0,7.511737089201878,2.25,Low Momentum,single
+2024-08-09,love always run away | lim young woong,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,Love Always Run Away,Lim Young Woong,2024-08-09,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-08-10,my you | jung kook,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,My You,Jung Kook,2024-08-10,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-08-11,love always run away | lim young woong,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Love Always Run Away,Lim Young Woong,2024-08-11,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-08-12,sos | kangdaniel,Confirmed Re-entry,47.0,30.0,-17.0,-17.0,Rank Declined,SOS,KANGDANIEL,2024-08-12,10,0.0,0.0,4.225352112676056,1.27,Low Momentum,single
+2024-08-12,stay alive (prod. suga of bts) | jung kook,Confirmed Re-entry,49.0,36.0,-13.0,-13.0,Rank Declined,Stay Alive (Prod. SUGA of BTS),Jung Kook,2024-08-12,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-08-17,kitsch | ive,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Kitsch,IVE,2024-08-17,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,album
+2024-08-19,kitsch | ive,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Kitsch,IVE,2024-08-19,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-08-20,"our blues, our life | lim young woong",Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,"Our Blues, Our Life",Lim Young Woong,2024-08-20,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-08-21,intro: singularity | bts,Confirmed Re-entry,49.0,45.0,-4.0,-4.0,Rank Declined,Intro: Singularity,BTS,2024-08-21,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2024-08-23,sos | kangdaniel,Confirmed Re-entry,45.0,41.0,-4.0,-4.0,Rank Declined,SOS,KANGDANIEL,2024-08-23,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-08-24,sugarcoat (natty solo) | kiss of life,Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,Sugarcoat (NATTY Solo),KISS OF LIFE,2024-08-24,14,6.0,21.428571428571427,6.103286384976527,16.83,Low Momentum,single
+2024-08-24,"our blues, our life | lim young woong",Confirmed Re-entry,47.0,49.0,2.0,2.0,Rank Improved,"Our Blues, Our Life",Lim Young Woong,2024-08-24,6,2.0,7.142857142857142,2.3474178403755865,5.7,Low Momentum,album
+2024-08-24,"angel pt. 2 (feat. jimin of bts, charlie puth and muni long) | fast & furious: the fast saga & jimin & bts",Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,"Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,2024-08-24,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-08-25,lilith (feat. suga of bts) (diablo iv anthem) | halsey & suga,Confirmed Re-entry,50.0,46.0,-4.0,-4.0,Rank Declined,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),Halsey & SUGA,2024-08-25,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-08-27,intro: singularity | bts,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Intro: Singularity,BTS,2024-08-27,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,album
+2024-08-28,a bientot | lim young woong,Confirmed Re-entry,49.0,44.0,-5.0,-5.0,Rank Declined,A bientot,Lim Young Woong,2024-08-28,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-08-30,lilith (feat. suga of bts) (diablo iv anthem) | halsey & suga,Confirmed Re-entry,47.0,48.0,1.0,1.0,Rank Improved,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),Halsey & SUGA,2024-08-30,4,1.0,3.571428571428571,1.4084507042253522,2.92,Low Momentum,single
+2024-08-31,sos | kangdaniel,Confirmed Re-entry,49.0,45.0,-4.0,-4.0,Rank Declined,SOS,KANGDANIEL,2024-08-31,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2024-09-01,rainbow | lim young woong,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Rainbow,Lim Young Woong,2024-09-01,8,0.0,0.0,3.286384976525822,0.99,Low Momentum,album
+2024-09-01,attention | newjeans,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Attention,NewJeans,2024-09-01,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2024-09-03,a bientot | lim young woong,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,A bientot,Lim Young Woong,2024-09-03,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-09-03,アイドル | yoasobi,Confirmed Re-entry,45.0,48.0,3.0,3.0,Rank Improved,アイドル,YOASOBI,2024-09-03,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,single
+2024-09-03,"our blues, our life | lim young woong",Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,"Our Blues, Our Life",Lim Young Woong,2024-09-03,4,6.0,21.428571428571427,1.4084507042253522,15.42,Low Momentum,album
+2024-09-04,sweet night | v,Confirmed Re-entry,39.0,41.0,2.0,2.0,Rank Improved,Sweet Night,V,2024-09-04,2,2.0,7.142857142857142,0.4694835680751174,5.14,Low Momentum,single
+2024-09-05,fry’s dream | akmu,Confirmed Re-entry,41.0,46.0,5.0,5.0,Rank Improved,Fry’s Dream,AKMU,2024-09-05,5,5.0,17.857142857142854,1.8779342723004695,13.06,Low Momentum,single
+2024-09-05,seven (feat. latto) (alesso remix) | jung kook & latto,Confirmed Re-entry,46.0,17.0,-29.0,-29.0,Rank Declined,Seven (feat. Latto) (Alesso Remix),Jung Kook & Latto,2024-09-05,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-09-05,memories | riize,Confirmed Re-entry,24.0,47.0,23.0,23.0,Rank Improved,Memories,RIIZE,2024-09-05,12,23.0,82.14285714285714,5.164319248826291,59.05,Moderate Momentum,single
+2024-09-07,sweet night | v,Confirmed Re-entry,47.0,49.0,2.0,2.0,Rank Improved,Sweet Night,V,2024-09-07,2,2.0,7.142857142857142,0.4694835680751174,5.14,Low Momentum,single
+2024-09-07,seven (feat. latto) (alesso remix) | jung kook & latto,Confirmed Re-entry,24.0,46.0,22.0,22.0,Rank Improved,Seven (feat. Latto) (Alesso Remix),Jung Kook & Latto,2024-09-07,2,22.0,78.57142857142857,0.4694835680751174,55.14,Moderate Momentum,single
+2024-09-09,sugarcoat (natty solo) | kiss of life,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,Sugarcoat (NATTY Solo),KISS OF LIFE,2024-09-09,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-09-09,better things | aespa,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Better Things,aespa,2024-09-09,8,0.0,0.0,3.286384976525822,0.99,Low Momentum,single
+2024-09-09,"steal the show - from ""elemental"" | lauv",Confirmed Re-entry,44.0,48.0,4.0,4.0,Rank Improved,"Steal The Show - From ""Elemental""",Lauv,2024-09-09,25,4.0,14.285714285714285,11.267605633802818,13.38,Low Momentum,single
+2024-09-10,a bientot | lim young woong,Confirmed Re-entry,44.0,46.0,2.0,2.0,Rank Improved,A bientot,Lim Young Woong,2024-09-10,5,2.0,7.142857142857142,1.8779342723004695,5.56,Low Momentum,album
+2024-09-10,"our blues, our life | lim young woong",Confirmed Re-entry,37.0,49.0,12.0,12.0,Rank Improved,"Our Blues, Our Life",Lim Young Woong,2024-09-10,18,12.0,42.857142857142854,7.981220657276995,32.39,Low Momentum,album
+2024-09-10,rainbow | lim young woong,Confirmed Re-entry,36.0,49.0,13.0,13.0,Rank Improved,Rainbow,Lim Young Woong,2024-09-10,172,13.0,46.42857142857142,80.28169014084507,56.58,Moderate Momentum,album
+2024-09-12,fry’s dream | akmu,Confirmed Re-entry,39.0,43.0,4.0,4.0,Rank Improved,Fry’s Dream,AKMU,2024-09-12,45,4.0,14.285714285714285,20.657276995305164,16.2,Low Momentum,single
+2024-09-13,sugarcoat (natty solo) | kiss of life,Confirmed Re-entry,46.0,49.0,3.0,3.0,Rank Improved,Sugarcoat (NATTY Solo),KISS OF LIFE,2024-09-13,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,single
+2024-09-13,lilith (feat. suga of bts) (diablo iv anthem) | halsey & suga,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),Halsey & SUGA,2024-09-13,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-09-13,click like (prod. crush) (feat. paul blanco) | various artists,Confirmed Re-entry,48.0,41.0,-7.0,-7.0,Rank Declined,Click Like (Prod. Crush) (Feat. Paul Blanco),Various Artists,2024-09-13,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-09-14,interlude : dive | jimin,Confirmed Re-entry,26.0,32.0,6.0,6.0,Rank Improved,Interlude : Dive,Jimin,2024-09-14,14,6.0,21.428571428571427,6.103286384976527,16.83,Low Momentum,single
+2024-09-14,let's say goodbye | parc jae jung,Confirmed Re-entry,46.0,48.0,2.0,2.0,Rank Improved,Let's Say Goodbye,Parc Jae Jung,2024-09-14,18,2.0,7.142857142857142,7.981220657276995,7.39,Low Momentum,album
+2024-09-14,"angel pt. 1 (feat. jimin of bts, jvke & muni long) - trailer version | fast & furious: the fast saga & jimin & bts",Confirmed Re-entry,35.0,43.0,8.0,8.0,Rank Improved,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",Fast & Furious: The Fast Saga & Jimin & BTS,2024-09-14,3,8.0,28.57142857142857,0.9389671361502347,20.28,Low Momentum,single
+2024-09-15,attention | newjeans,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,Attention,NewJeans,2024-09-15,12,1.0,3.571428571428571,5.164319248826291,4.05,Low Momentum,single
+2024-09-15,spicy | aespa,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,Spicy,aespa,2024-09-15,2,4.0,14.285714285714285,0.4694835680751174,10.14,Low Momentum,single
+2024-09-17,slow dancing | v,Confirmed Re-entry,6.0,5.0,-1.0,-1.0,Rank Declined,Slow Dancing,V,2024-09-17,165,0.0,0.0,76.99530516431925,23.1,Low Momentum,single
+2024-09-18,christmas tree | v,Confirmed Re-entry,44.0,32.0,-12.0,-12.0,Rank Declined,Christmas Tree,V,2024-09-18,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-09-18,memories | riize,Confirmed Re-entry,47.0,41.0,-6.0,-6.0,Rank Declined,Memories,RIIZE,2024-09-18,6,0.0,0.0,2.3474178403755865,0.7,Low Momentum,single
+2024-09-19,a bientot | lim young woong,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,A bientot,Lim Young Woong,2024-09-19,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2024-09-22,アイドル | yoasobi,Confirmed Re-entry,48.0,45.0,-3.0,-3.0,Rank Declined,アイドル,YOASOBI,2024-09-22,10,0.0,0.0,4.225352112676056,1.27,Low Momentum,single
+2024-09-22,vancouver | big naughty,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Vancouver,BIG Naughty,2024-09-22,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-09-23,a bientot | lim young woong,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,A bientot,Lim Young Woong,2024-09-23,5,1.0,3.571428571428571,1.8779342723004695,3.06,Low Momentum,album
+2024-09-24,sunflower - spider-man: into the spider-verse | post malone,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,2024-09-24,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-09-24,queencard | (g)i-dle,Confirmed Re-entry,50.0,43.0,-7.0,-7.0,Rank Declined,Queencard,(G)I-DLE,2024-09-24,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-09-25,i love you | lim young woong,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,I Love You,Lim Young Woong,2024-09-25,2,2.0,7.142857142857142,0.4694835680751174,5.14,Low Momentum,album
+2024-09-25,memories | riize,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,Memories,RIIZE,2024-09-25,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2024-09-27,but sometimes | boynextdoor,Confirmed Re-entry,49.0,39.0,-10.0,-10.0,Rank Declined,But Sometimes,BOYNEXTDOOR,2024-09-27,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-09-28,attention | newjeans,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Attention,NewJeans,2024-09-28,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-09-28,baggy jeans | nct,Confirmed Re-entry,50.0,46.0,-4.0,-4.0,Rank Declined,Baggy Jeans,NCT,2024-09-28,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-09-29,"our blues, our life | lim young woong",Confirmed Re-entry,47.0,41.0,-6.0,-6.0,Rank Declined,"Our Blues, Our Life",Lim Young Woong,2024-09-29,7,0.0,0.0,2.8169014084507045,0.85,Low Momentum,album
+2024-09-29,interlude : dive | jimin,Confirmed Re-entry,35.0,45.0,10.0,10.0,Rank Improved,Interlude : Dive,Jimin,2024-09-29,1,10.0,35.71428571428571,0.0,25.0,Low Momentum,single
+2024-09-29,queencard | (g)i-dle,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Queencard,(G)I-DLE,2024-09-29,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2024-09-30,a bientot | lim young woong,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,A bientot,Lim Young Woong,2024-09-30,6,0.0,0.0,2.3474178403755865,0.7,Low Momentum,album
+2024-09-30,my you | jung kook,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,My You,Jung Kook,2024-09-30,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-10-02,better things | aespa,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Better Things,aespa,2024-10-02,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,single
+2024-10-02,love always run away | lim young woong,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Love Always Run Away,Lim Young Woong,2024-10-02,2,2.0,7.142857142857142,0.4694835680751174,5.14,Low Momentum,single
+2024-10-02,memories | riize,Confirmed Re-entry,47.0,44.0,-3.0,-3.0,Rank Declined,Memories,RIIZE,2024-10-02,18,0.0,0.0,7.981220657276995,2.39,Low Momentum,single
+2024-10-04,cruel summer | taylor swift,Confirmed Re-entry,46.0,44.0,-2.0,-2.0,Rank Declined,Cruel Summer,Taylor Swift,2024-10-04,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,album
+2024-10-06,アイドル | yoasobi,Confirmed Re-entry,44.0,45.0,1.0,1.0,Rank Improved,アイドル,YOASOBI,2024-10-06,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2024-10-06,interlude : dive | jimin,Confirmed Re-entry,37.0,35.0,-2.0,-2.0,Rank Declined,Interlude : Dive,Jimin,2024-10-06,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2024-10-07,"our blues, our life | lim young woong",Confirmed Re-entry,49.0,45.0,-4.0,-4.0,Rank Declined,"Our Blues, Our Life",Lim Young Woong,2024-10-07,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2024-10-09,a bientot | lim young woong,Confirmed Re-entry,48.0,47.0,-1.0,-1.0,Rank Declined,A bientot,Lim Young Woong,2024-10-09,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-10-09,3d (feat. jack harlow) (instrumental) | jung kook & jack harlow,Confirmed Re-entry,50.0,28.0,-22.0,-22.0,Rank Declined,3D (feat. Jack Harlow) (Instrumental),Jung Kook & Jack Harlow,2024-10-09,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,single
+2024-10-10,you & me (coachella ver.) | jennie,Confirmed Re-entry,16.0,4.0,-12.0,-12.0,Rank Declined,You & Me (Coachella ver.),JENNIE,2024-10-10,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-10-10,greedy | tate mcrae,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,greedy,Tate McRae,2024-10-10,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2024-10-12,interlude : dive | jimin,Confirmed Re-entry,39.0,45.0,6.0,6.0,Rank Improved,Interlude : Dive,Jimin,2024-10-12,1,6.0,21.428571428571427,0.0,15.0,Low Momentum,single
+2024-10-13,a bientot | lim young woong,Confirmed Re-entry,45.0,48.0,3.0,3.0,Rank Improved,A bientot,Lim Young Woong,2024-10-13,139,3.0,10.714285714285714,64.7887323943662,26.94,Low Momentum,album
+2024-10-13,"our blues, our life | lim young woong",Confirmed Re-entry,39.0,46.0,7.0,7.0,Rank Improved,"Our Blues, Our Life",Lim Young Woong,2024-10-13,139,7.0,25.0,64.7887323943662,36.94,Low Momentum,album
+2024-10-14,love always run away | lim young woong,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Love Always Run Away,Lim Young Woong,2024-10-14,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-10-14,interlude : dive | jimin,Confirmed Re-entry,46.0,39.0,-7.0,-7.0,Rank Declined,Interlude : Dive,Jimin,2024-10-14,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-10-16,haegeum | agust d,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,Haegeum,Agust D,2024-10-16,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,album
+2024-10-16,a psalm of life | lim young woong,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,A Psalm of Life,Lim Young Woong,2024-10-16,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-10-16,dreamers [music from the fifa world cup qatar 2022 official soundtrack] | jung kook & bts,Confirmed Re-entry,38.0,48.0,10.0,10.0,Rank Improved,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,2024-10-16,3,10.0,35.71428571428571,0.9389671361502347,25.28,Low Momentum,single
+2024-10-17,interlude : dive | jimin,Confirmed Re-entry,42.0,46.0,4.0,4.0,Rank Improved,Interlude : Dive,Jimin,2024-10-17,4,4.0,14.285714285714285,1.4084507042253522,10.42,Low Momentum,single
+2024-10-17,i love you | lim young woong,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,I Love You,Lim Young Woong,2024-10-17,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-10-19,a psalm of life | lim young woong,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,A Psalm of Life,Lim Young Woong,2024-10-19,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,album
+2024-10-19,cool with you | newjeans,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Cool With You,NewJeans,2024-10-19,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2024-10-19,fact check | nct 127,Confirmed Re-entry,50.0,44.0,-6.0,-6.0,Rank Declined,Fact Check,NCT 127,2024-10-19,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-10-20,haegeum | agust d,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,Haegeum,Agust D,2024-10-20,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-10-20,cruel summer | taylor swift,Confirmed Re-entry,45.0,50.0,5.0,5.0,Rank Improved,Cruel Summer,Taylor Swift,2024-10-20,2,5.0,17.857142857142854,0.4694835680751174,12.64,Low Momentum,album
+2024-10-20,dreamers [music from the fifa world cup qatar 2022 official soundtrack] | jung kook & bts,Confirmed Re-entry,42.0,31.0,-11.0,-11.0,Rank Declined,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,2024-10-20,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2024-10-21,love always run away | lim young woong,Confirmed Re-entry,47.0,49.0,2.0,2.0,Rank Improved,Love Always Run Away,Lim Young Woong,2024-10-21,112,2.0,7.142857142857142,52.11267605633804,20.63,Low Momentum,single
+2024-10-21,a psalm of life | lim young woong,Confirmed Re-entry,45.0,49.0,4.0,4.0,Rank Improved,A Psalm of Life,Lim Young Woong,2024-10-21,112,4.0,14.285714285714285,52.11267605633804,25.63,Low Momentum,album
+2024-10-22,hype boy | newjeans,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,Hype Boy,NewJeans,2024-10-22,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-10-22,interlude : dive | jimin,Confirmed Re-entry,35.0,31.0,-4.0,-4.0,Rank Declined,Interlude : Dive,Jimin,2024-10-22,98,0.0,0.0,45.539906103286384,13.66,Low Momentum,single
+2024-10-22,i love you | lim young woong,Confirmed Re-entry,45.0,49.0,4.0,4.0,Rank Improved,I Love You,Lim Young Woong,2024-10-22,117,4.0,14.285714285714285,54.46009389671362,26.34,Low Momentum,album
+2024-10-22,lovely touch | lim young woong,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Lovely Touch,Lim Young Woong,2024-10-22,111,0.0,0.0,51.64319248826291,15.49,Low Momentum,album
+2024-10-23,haegeum | agust d,Confirmed Re-entry,45.0,50.0,5.0,5.0,Rank Improved,Haegeum,Agust D,2024-10-23,3,5.0,17.857142857142854,0.9389671361502347,12.78,Low Momentum,album
+2024-10-23,still with you | jung kook,Confirmed Re-entry,44.0,37.0,-7.0,-7.0,Rank Declined,Still With You,Jung Kook,2024-10-23,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-10-24,cruel summer | taylor swift,Confirmed Re-entry,50.0,46.0,-4.0,-4.0,Rank Declined,Cruel Summer,Taylor Swift,2024-10-24,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-10-26,left and right (feat. jung kook of bts) | charlie puth,Confirmed Re-entry,30.0,32.0,2.0,2.0,Rank Improved,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,2024-10-26,5,2.0,7.142857142857142,1.8779342723004695,5.56,Low Momentum,album
+2024-10-26,vibe (feat. jimin of bts) | taeyang,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,VIBE (feat. Jimin of BTS),TAEYANG,2024-10-26,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-10-26,dreamers [music from the fifa world cup qatar 2022 official soundtrack] | jung kook & bts,Confirmed Re-entry,33.0,47.0,14.0,14.0,Rank Improved,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,2024-10-26,5,14.0,50.0,1.8779342723004695,35.56,Low Momentum,single
+2024-10-27,hero | lim young woong,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,HERO,Lim Young Woong,2024-10-27,8,1.0,3.571428571428571,3.286384976525822,3.49,Low Momentum,single
+2024-10-27,"angel pt. 1 (feat. jimin of bts, jvke & muni long) - trailer version | fast & furious: the fast saga & jimin & bts",Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",Fast & Furious: The Fast Saga & Jimin & BTS,2024-10-27,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-10-29,vibe (feat. jimin of bts) | taeyang,Confirmed Re-entry,43.0,50.0,7.0,7.0,Rank Improved,VIBE (feat. Jimin of BTS),TAEYANG,2024-10-29,1,7.0,25.0,0.0,17.5,Low Momentum,album
+2024-10-30,father | lim young woong,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,Father,Lim Young Woong,2024-10-30,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-10-31,"angel pt. 1 (feat. jimin of bts, jvke & muni long) - trailer version | fast & furious: the fast saga & jimin & bts",Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",Fast & Furious: The Fast Saga & Jimin & BTS,2024-10-31,57,4.0,14.285714285714285,26.291079812206576,17.89,Low Momentum,single
+2024-11-01,father | lim young woong,Confirmed Re-entry,43.0,47.0,4.0,4.0,Rank Improved,Father,Lim Young Woong,2024-11-01,81,4.0,14.285714285714285,37.558685446009385,21.27,Low Momentum,album
+2024-11-02,vibe (feat. jimin of bts) | taeyang,Confirmed Re-entry,48.0,43.0,-5.0,-5.0,Rank Declined,VIBE (feat. Jimin of BTS),TAEYANG,2024-11-02,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-11-03,"angel pt. 2 (feat. jimin of bts, charlie puth and muni long) | fast & furious: the fast saga & jimin & bts",Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,"Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,2024-11-03,2,6.0,21.428571428571427,0.4694835680751174,15.14,Low Momentum,single
+2024-11-03,new jeans | newjeans,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,New Jeans,NewJeans,2024-11-03,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2024-11-04,vibe (feat. jimin of bts) | taeyang,Confirmed Re-entry,45.0,48.0,3.0,3.0,Rank Improved,VIBE (feat. Jimin of BTS),TAEYANG,2024-11-04,8,3.0,10.714285714285714,3.286384976525822,8.49,Low Momentum,album
+2024-11-05,hero | lim young woong,Confirmed Re-entry,48.0,45.0,-3.0,-3.0,Rank Declined,HERO,Lim Young Woong,2024-11-05,97,0.0,0.0,45.07042253521127,13.52,Low Momentum,single
+2024-11-05,christmas love | jimin,Confirmed Re-entry,28.0,48.0,20.0,20.0,Rank Improved,Christmas Love,Jimin,2024-11-05,2,20.0,71.42857142857142,0.4694835680751174,50.14,Moderate Momentum,single
+2024-11-07,talk saxy | riize,Confirmed Re-entry,50.0,40.0,-10.0,-10.0,Rank Declined,Talk Saxy,RIIZE,2024-11-07,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2024-11-07,take two | bts,Confirmed Re-entry,49.0,45.0,-4.0,-4.0,Rank Declined,Take Two,BTS,2024-11-07,11,0.0,0.0,4.694835680751174,1.41,Low Momentum,single
+2024-11-08,ditto | newjeans,Confirmed Re-entry,43.0,49.0,6.0,6.0,Rank Improved,Ditto,NewJeans,2024-11-08,12,6.0,21.428571428571427,5.164319248826291,16.55,Low Momentum,single
+2024-11-08,christmas love | jimin,Confirmed Re-entry,50.0,28.0,-22.0,-22.0,Rank Declined,Christmas Love,Jimin,2024-11-08,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-11-09,love letter | lim young woong,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Love Letter,Lim Young Woong,2024-11-09,42,1.0,3.571428571428571,19.248826291079812,8.27,Low Momentum,album
+2024-11-10,christmas love | jimin,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,Christmas Love,Jimin,2024-11-10,2,4.0,14.285714285714285,0.4694835680751174,10.14,Low Momentum,single
+2024-11-12,love lee | akmu,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,Love Lee,AKMU,2024-11-12,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-11-18,elevator | lim young woong,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Elevator,Lim Young Woong,2024-11-18,3,1.0,3.571428571428571,0.9389671361502347,2.78,Low Momentum,single
+2024-11-18,christmas love | jimin,Confirmed Re-entry,48.0,33.0,-15.0,-15.0,Rank Declined,Christmas Love,Jimin,2024-11-18,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-11-19,loving you | lim young woong,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,Loving You,Lim Young Woong,2024-11-19,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,album
+2024-11-20,love station | lim young woong,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Love Station,Lim Young Woong,2024-11-20,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-11-20,dreamers [music from the fifa world cup qatar 2022 official soundtrack] | jung kook & bts,Confirmed Re-entry,28.0,30.0,2.0,2.0,Rank Improved,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,2024-11-20,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2024-11-21,you & me | jennie,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,You & Me,JENNIE,2024-11-21,7,2.0,7.142857142857142,2.8169014084507045,5.85,Low Momentum,single
+2024-11-21,ditto | newjeans,Confirmed Re-entry,47.0,49.0,2.0,2.0,Rank Improved,Ditto,NewJeans,2024-11-21,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2024-11-22,elevator | lim young woong,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Elevator,Lim Young Woong,2024-11-22,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-11-22,christmas love | jimin,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Christmas Love,Jimin,2024-11-22,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-11-23,love station | lim young woong,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Love Station,Lim Young Woong,2024-11-23,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,album
+2024-11-23,eta | newjeans,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,ETA,NewJeans,2024-11-23,6,1.0,3.571428571428571,2.3474178403755865,3.2,Low Momentum,single
+2024-11-23,ditto | newjeans,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,Ditto,NewJeans,2024-11-23,82,0.0,0.0,38.028169014084504,11.41,Low Momentum,single
+2024-11-24,christmas love | jimin,Confirmed Re-entry,46.0,49.0,3.0,3.0,Rank Improved,Christmas Love,Jimin,2024-11-24,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,single
+2024-11-28,left and right (feat. jung kook of bts) | charlie puth,Confirmed Re-entry,29.0,19.0,-10.0,-10.0,Rank Declined,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,2024-11-28,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,album
+2024-11-28,christmas love | jimin,Confirmed Re-entry,48.0,46.0,-2.0,-2.0,Rank Declined,Christmas Love,Jimin,2024-11-28,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-11-29,trust in me | lim young woong,Confirmed Re-entry,48.0,47.0,-1.0,-1.0,Rank Declined,Trust in me,Lim Young Woong,2024-11-29,10,0.0,0.0,4.225352112676056,1.27,Low Momentum,single
+2024-11-30,eta | newjeans,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,ETA,NewJeans,2024-11-30,25,1.0,3.571428571428571,11.267605633802818,5.88,Low Momentum,single
+2024-12-02,omg | newjeans,Confirmed Re-entry,42.0,48.0,6.0,6.0,Rank Improved,OMG,NewJeans,2024-12-02,23,6.0,21.428571428571427,10.328638497652582,18.1,Low Momentum,single
+2024-12-02,christmas love | jimin,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,Christmas Love,Jimin,2024-12-02,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2024-12-03,3d (justin timberlake remix) | jung kook & justin timberlake,Confirmed Re-entry,38.0,28.0,-10.0,-10.0,Rank Declined,3D (Justin Timberlake Remix),Jung Kook & Justin Timberlake,2024-12-03,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2024-12-04,too sad to dance | jung kook,Confirmed Re-entry,50.0,46.0,-4.0,-4.0,Rank Declined,Too Sad to Dance,Jung Kook,2024-12-04,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-12-04,loving you | lim young woong,Confirmed Re-entry,46.0,48.0,2.0,2.0,Rank Improved,Loving You,Lim Young Woong,2024-12-04,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,album
+2024-12-05,love station | lim young woong,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Love Station,Lim Young Woong,2024-12-05,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-12-05,closer to you (feat. major lazer) | jung kook,Confirmed Re-entry,44.0,47.0,3.0,3.0,Rank Improved,Closer to You (feat. Major Lazer),Jung Kook,2024-12-05,10,3.0,10.714285714285714,4.225352112676056,8.77,Low Momentum,album
+2024-12-05,christmas love | jimin,Confirmed Re-entry,47.0,46.0,-1.0,-1.0,Rank Declined,Christmas Love,Jimin,2024-12-05,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-12-06,somebody | jung kook,Confirmed Re-entry,48.0,47.0,-1.0,-1.0,Rank Declined,Somebody,Jung Kook,2024-12-06,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2024-12-06,get a guitar | riize,Confirmed Re-entry,49.0,45.0,-4.0,-4.0,Rank Declined,Get A Guitar,RIIZE,2024-12-06,15,0.0,0.0,6.572769953051644,1.97,Low Momentum,single
+2024-12-06,loving you | lim young woong,Confirmed Re-entry,50.0,46.0,-4.0,-4.0,Rank Declined,Loving You,Lim Young Woong,2024-12-06,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-12-08,elevator | lim young woong,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Elevator,Lim Young Woong,2024-12-08,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-12-09,too sad to dance | jung kook,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Too Sad to Dance,Jung Kook,2024-12-09,4,2.0,7.142857142857142,1.4084507042253522,5.42,Low Momentum,album
+2024-12-09,baddie | ive,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Baddie,IVE,2024-12-09,10,1.0,3.571428571428571,4.225352112676056,3.77,Low Momentum,single
+2024-12-09,christmas love | jimin,Confirmed Re-entry,40.0,47.0,7.0,7.0,Rank Improved,Christmas Love,Jimin,2024-12-09,2,7.0,25.0,0.4694835680751174,17.64,Low Momentum,single
+2024-12-10,somebody | jung kook,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,Somebody,Jung Kook,2024-12-10,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-12-11,hype boy | newjeans,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Hype Boy,NewJeans,2024-12-11,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-12-11,nest | lim young woong,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,Nest,Lim Young Woong,2024-12-11,1,4.0,14.285714285714285,0.0,10.0,Low Momentum,album
+2024-12-12,somebody | jung kook,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Somebody,Jung Kook,2024-12-12,3,2.0,7.142857142857142,0.9389671361502347,5.28,Low Momentum,album
+2024-12-12,shot glass of tears | jung kook,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,Shot Glass of Tears,Jung Kook,2024-12-12,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-12-12,christmas love | jimin,Confirmed Re-entry,42.0,41.0,-1.0,-1.0,Rank Declined,Christmas Love,Jimin,2024-12-12,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-12-13,my starry love | lim young woong,Confirmed Re-entry,48.0,42.0,-6.0,-6.0,Rank Declined,My Starry Love,Lim Young Woong,2024-12-13,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-12-13,nest | lim young woong,Confirmed Re-entry,50.0,46.0,-4.0,-4.0,Rank Declined,Nest,Lim Young Woong,2024-12-13,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2024-12-14,talk saxy | riize,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Talk Saxy,RIIZE,2024-12-14,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,single
+2024-12-14,too sad to dance | jung kook,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,Too Sad to Dance,Jung Kook,2024-12-14,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,album
+2024-12-15,discord | qwer,Confirmed Re-entry,44.0,49.0,5.0,5.0,Rank Improved,Discord,QWER,2024-12-15,2,5.0,17.857142857142854,0.4694835680751174,12.64,Low Momentum,single
+2024-12-15,you & me | jennie,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,You & Me,JENNIE,2024-12-15,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-12-15,shot glass of tears | jung kook,Confirmed Re-entry,45.0,41.0,-4.0,-4.0,Rank Declined,Shot Glass of Tears,Jung Kook,2024-12-15,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-12-16,somebody | jung kook,Confirmed Re-entry,46.0,43.0,-3.0,-3.0,Rank Declined,Somebody,Jung Kook,2024-12-16,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-12-16,too sad to dance | jung kook,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,Too Sad to Dance,Jung Kook,2024-12-16,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-12-16,closer to you (feat. major lazer) | jung kook,Confirmed Re-entry,48.0,42.0,-6.0,-6.0,Rank Declined,Closer to You (feat. Major Lazer),Jung Kook,2024-12-16,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-12-17,all i want for christmas is you | mariah carey,Confirmed Re-entry,24.0,44.0,20.0,20.0,Rank Improved,All I Want for Christmas Is You,Mariah Carey,2024-12-17,11,20.0,71.42857142857142,4.694835680751174,51.41,Moderate Momentum,album
+2024-12-17,christmas love | jimin,Confirmed Re-entry,33.0,42.0,9.0,9.0,Rank Improved,Christmas Love,Jimin,2024-12-17,2,9.0,32.14285714285714,0.4694835680751174,22.64,Low Momentum,single
+2024-12-19,nest | lim young woong,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Nest,Lim Young Woong,2024-12-19,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-12-19,shot glass of tears | jung kook,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Shot Glass of Tears,Jung Kook,2024-12-19,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-12-20,closer to you (feat. major lazer) | jung kook,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Closer to You (feat. Major Lazer),Jung Kook,2024-12-20,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-12-20,christmas love | jimin,Confirmed Re-entry,30.0,33.0,3.0,3.0,Rank Improved,Christmas Love,Jimin,2024-12-20,9,3.0,10.714285714285714,3.755868544600939,8.63,Low Momentum,single
+2024-12-21,somebody | jung kook,Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,Somebody,Jung Kook,2024-12-21,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-12-21,snowman | sia,Confirmed Re-entry,34.0,44.0,10.0,10.0,Rank Improved,Snowman,Sia,2024-12-21,7,10.0,35.71428571428571,2.8169014084507045,25.85,Low Momentum,album
+2024-12-23,my love mine all mine | mitski,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,My Love Mine All Mine,Mitski,2024-12-23,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-12-23,love letter | lim young woong,Confirmed Re-entry,49.0,43.0,-6.0,-6.0,Rank Declined,Love Letter,Lim Young Woong,2024-12-23,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2024-12-23,last christmas - single version | wham!,Confirmed Re-entry,42.0,47.0,5.0,5.0,Rank Improved,Last Christmas - Single Version,Wham!,2024-12-23,5,5.0,17.857142857142854,1.8779342723004695,13.06,Low Momentum,album
+2024-12-23,get a guitar | riize,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,Get A Guitar,RIIZE,2024-12-23,2,3.0,10.714285714285714,0.4694835680751174,7.64,Low Momentum,single
+2024-12-23,too sad to dance | jung kook,Confirmed Re-entry,45.0,47.0,2.0,2.0,Rank Improved,Too Sad to Dance,Jung Kook,2024-12-23,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,album
+2024-12-23,please don't change (feat. dj snake) | jung kook,Confirmed Re-entry,46.0,45.0,-1.0,-1.0,Rank Declined,Please Don't Change (feat. DJ Snake),Jung Kook,2024-12-23,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-12-27,hate you | jung kook,Confirmed Re-entry,47.0,49.0,2.0,2.0,Rank Improved,Hate You,Jung Kook,2024-12-27,32,2.0,7.142857142857142,14.553990610328638,9.37,Low Momentum,album
+2024-12-27,eta | newjeans,Confirmed Re-entry,50.0,45.0,-5.0,-5.0,Rank Declined,ETA,NewJeans,2024-12-27,57,0.0,0.0,26.291079812206576,7.89,Low Momentum,single
+2024-12-28,you & me | jennie,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,You & Me,JENNIE,2024-12-28,6,4.0,14.285714285714285,2.3474178403755865,10.7,Low Momentum,single
+2024-12-28,omg | newjeans,Confirmed Re-entry,40.0,46.0,6.0,6.0,Rank Improved,OMG,NewJeans,2024-12-28,30,6.0,21.428571428571427,13.615023474178404,19.08,Low Momentum,single
+2024-12-28,"angel pt. 1 (feat. jimin of bts, jvke & muni long) - trailer version | fast & furious: the fast saga & jimin & bts",Confirmed Re-entry,41.0,41.0,0.0,0.0,No Rank Change,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",Fast & Furious: The Fast Saga & Jimin & BTS,2024-12-28,7,0.0,0.0,2.8169014084507045,0.85,Low Momentum,single
+2024-12-28,cruel summer | taylor swift,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Cruel Summer,Taylor Swift,2024-12-28,63,2.0,7.142857142857142,29.107981220657276,13.73,Low Momentum,album
+2024-12-28,left and right (feat. jung kook of bts) | charlie puth,Confirmed Re-entry,42.0,22.0,-20.0,-20.0,Rank Declined,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,2024-12-28,23,0.0,0.0,10.328638497652582,3.1,Low Momentum,album
+2024-12-28,love letter | lim young woong,Confirmed Re-entry,43.0,47.0,4.0,4.0,Rank Improved,Love Letter,Lim Young Woong,2024-12-28,9,4.0,14.285714285714285,3.755868544600939,11.13,Low Momentum,album
+2024-12-28,get a guitar | riize,Confirmed Re-entry,38.0,50.0,12.0,12.0,Rank Improved,Get A Guitar,RIIZE,2024-12-28,63,12.0,42.857142857142854,29.107981220657276,38.73,Low Momentum,single
+2024-12-28,my love mine all mine | mitski,Confirmed Re-entry,44.0,48.0,4.0,4.0,Rank Improved,My Love Mine All Mine,Mitski,2024-12-28,10,4.0,14.285714285714285,4.225352112676056,11.27,Low Momentum,album
+2024-12-28,new jeans | newjeans,Confirmed Re-entry,47.0,48.0,1.0,1.0,Rank Improved,New Jeans,NewJeans,2024-12-28,3,1.0,3.571428571428571,0.9389671361502347,2.78,Low Momentum,single
+2024-12-28,please don't change (feat. dj snake) | jung kook,Confirmed Re-entry,50.0,46.0,-4.0,-4.0,Rank Declined,Please Don't Change (feat. DJ Snake),Jung Kook,2024-12-28,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2024-12-29,closer to you (feat. major lazer) | jung kook,Confirmed Re-entry,43.0,47.0,4.0,4.0,Rank Improved,Closer to You (feat. Major Lazer),Jung Kook,2024-12-29,1,4.0,14.285714285714285,0.0,10.0,Low Momentum,album
+2024-12-29,shot glass of tears | jung kook,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Shot Glass of Tears,Jung Kook,2024-12-29,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-12-30,hype boy | newjeans,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,Hype Boy,NewJeans,2024-12-30,1,4.0,14.285714285714285,0.0,10.0,Low Momentum,single
+2024-12-30,nest | lim young woong,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Nest,Lim Young Woong,2024-12-30,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2024-12-31,for us | v,Confirmed Re-entry,44.0,48.0,4.0,4.0,Rank Improved,For Us,V,2024-12-31,10,4.0,14.285714285714285,4.225352112676056,11.27,Low Momentum,single
+2024-12-31,blue | v,Confirmed Re-entry,46.0,46.0,0.0,0.0,No Rank Change,Blue,V,2024-12-31,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2024-12-31,slow dancing (piano ver.) | v,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Slow Dancing (Piano Ver.),V,2024-12-31,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-01-01,new jeans | newjeans,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,New Jeans,NewJeans,2025-01-01,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-01-01,please don't change (feat. dj snake) | jung kook,Confirmed Re-entry,45.0,44.0,-1.0,-1.0,Rank Declined,Please Don't Change (feat. DJ Snake),Jung Kook,2025-01-01,16,0.0,0.0,7.042253521126761,2.11,Low Momentum,album
+2025-01-03,my starry love | lim young woong,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,My Starry Love,Lim Young Woong,2025-01-03,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-01-03,nest | lim young woong,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Nest,Lim Young Woong,2025-01-03,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,album
+2025-01-03,blue | v,Confirmed Re-entry,43.0,46.0,3.0,3.0,Rank Improved,Blue,V,2025-01-03,3,3.0,10.714285714285714,0.9389671361502347,7.78,Low Momentum,single
+2025-01-04,hype boy | newjeans,Confirmed Re-entry,48.0,46.0,-2.0,-2.0,Rank Declined,Hype Boy,NewJeans,2025-01-04,12,0.0,0.0,5.164319248826291,1.55,Low Momentum,single
+2025-01-04,new jeans | newjeans,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,New Jeans,NewJeans,2025-01-04,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-01-04,you & me | jennie,Confirmed Re-entry,47.0,48.0,1.0,1.0,Rank Improved,You & Me,JENNIE,2025-01-04,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2025-01-05,closer to you (feat. major lazer) | jung kook,Confirmed Re-entry,46.0,43.0,-3.0,-3.0,Rank Declined,Closer to You (feat. Major Lazer),Jung Kook,2025-01-05,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-01-05,baddie | ive,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Baddie,IVE,2025-01-05,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-01-06,new jeans | newjeans,Confirmed Re-entry,41.0,50.0,9.0,9.0,Rank Improved,New Jeans,NewJeans,2025-01-06,1,9.0,32.14285714285714,0.0,22.5,Low Momentum,single
+2025-01-06,you & me | jennie,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,You & Me,JENNIE,2025-01-06,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-01-07,love letter | lim young woong,Confirmed Re-entry,46.0,44.0,-2.0,-2.0,Rank Declined,Love Letter,Lim Young Woong,2025-01-07,10,0.0,0.0,4.225352112676056,1.27,Low Momentum,album
+2025-01-07,blue | v,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,Blue,V,2025-01-07,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-01-09,my love mine all mine | mitski,Confirmed Re-entry,47.0,49.0,2.0,2.0,Rank Improved,My Love Mine All Mine,Mitski,2025-01-09,35,2.0,7.142857142857142,15.96244131455399,9.79,Low Momentum,album
+2025-01-09,new jeans | newjeans,Confirmed Re-entry,50.0,41.0,-9.0,-9.0,Rank Declined,New Jeans,NewJeans,2025-01-09,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-01-10,talk saxy | riize,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Talk Saxy,RIIZE,2025-01-10,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-01-10,closer to you (feat. major lazer) | jung kook,Confirmed Re-entry,47.0,46.0,-1.0,-1.0,Rank Declined,Closer to You (feat. Major Lazer),Jung Kook,2025-01-10,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-01-10,cupido | engel montaz & kuv507 & latinnites music,Confirmed Re-entry,32.0,47.0,15.0,15.0,Rank Improved,Cupido,Engel Montaz & Kuv507 & Latinnites Music,2025-01-10,1,15.0,53.57142857142857,0.0,37.5,Low Momentum,single
+2025-01-11,my starry love | lim young woong,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,My Starry Love,Lim Young Woong,2025-01-11,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2025-01-11,nest | lim young woong,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Nest,Lim Young Woong,2025-01-11,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-01-11,blue | v,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,Blue,V,2025-01-11,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2025-01-12,talk saxy | riize,Confirmed Re-entry,46.0,49.0,3.0,3.0,Rank Improved,Talk Saxy,RIIZE,2025-01-12,2,3.0,10.714285714285714,0.4694835680751174,7.64,Low Momentum,single
+2025-01-12,closer to you (feat. major lazer) | jung kook,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,Closer to You (feat. Major Lazer),Jung Kook,2025-01-12,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-01-12,you & me | jennie,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,You & Me,JENNIE,2025-01-12,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,single
+2025-01-13,new jeans | newjeans,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,New Jeans,NewJeans,2025-01-13,3,1.0,3.571428571428571,0.9389671361502347,2.78,Low Momentum,single
+2025-01-16,lost and found | kinglee & lil' flip,Confirmed Re-entry,8.0,27.0,19.0,19.0,Rank Improved,Lost and Found,KingLee & Lil' Flip,2025-01-16,2,19.0,67.85714285714285,0.4694835680751174,47.64,Moderate Momentum,single
+2025-01-16,closer to you (feat. major lazer) | jung kook,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Closer to You (feat. Major Lazer),Jung Kook,2025-01-16,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,album
+2025-01-17,talk saxy | riize,Confirmed Re-entry,50.0,44.0,-6.0,-6.0,Rank Declined,Talk Saxy,RIIZE,2025-01-17,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,single
+2025-01-17,all or nothing | j money & kinglee,Confirmed Re-entry,26.0,30.0,4.0,4.0,Rank Improved,All Or Nothing,J Money & KingLee,2025-01-17,1,4.0,14.285714285714285,0.0,10.0,Low Momentum,single
+2025-01-18,lovin on me | jack harlow,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Lovin On Me,Jack Harlow,2025-01-18,5,1.0,3.571428571428571,1.8779342723004695,3.06,Low Momentum,single
+2025-01-18,love letter | lim young woong,Confirmed Re-entry,48.0,44.0,-4.0,-4.0,Rank Declined,Love Letter,Lim Young Woong,2025-01-18,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-01-21,left and right (feat. jung kook of bts) | charlie puth,Confirmed Re-entry,44.0,48.0,4.0,4.0,Rank Improved,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,2025-01-21,4,4.0,14.285714285714285,1.4084507042253522,10.42,Low Momentum,album
+2025-01-21,please don't change (feat. dj snake) | jung kook,Confirmed Re-entry,36.0,45.0,9.0,9.0,Rank Improved,Please Don't Change (feat. DJ Snake),Jung Kook,2025-01-21,1,9.0,32.14285714285714,0.0,22.5,Low Momentum,album
+2025-01-22,love letter | lim young woong,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Love Letter,Lim Young Woong,2025-01-22,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-01-22,father | lim young woong,Confirmed Re-entry,42.0,42.0,0.0,0.0,No Rank Change,Father,Lim Young Woong,2025-01-22,19,0.0,0.0,8.450704225352112,2.54,Low Momentum,album
+2025-01-22,baddie | ive,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Baddie,IVE,2025-01-22,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-01-23,with you | jimin & ha sung woon,Confirmed Re-entry,28.0,50.0,22.0,22.0,Rank Improved,With you,Jimin & HA SUNG WOON,2025-01-23,1,22.0,78.57142857142857,0.0,55.0,Moderate Momentum,single
+2025-01-23,please don't change (feat. dj snake) | jung kook,Confirmed Re-entry,49.0,36.0,-13.0,-13.0,Rank Declined,Please Don't Change (feat. DJ Snake),Jung Kook,2025-01-23,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-01-24,lovin on me | jack harlow,Confirmed Re-entry,47.0,46.0,-1.0,-1.0,Rank Declined,Lovin On Me,Jack Harlow,2025-01-24,8,0.0,0.0,3.286384976525822,0.99,Low Momentum,single
+2025-01-25,somebody | jung kook,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Somebody,Jung Kook,2025-01-25,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-01-25,gods | league of legends & newjeans,Confirmed Re-entry,48.0,45.0,-3.0,-3.0,Rank Declined,GODS,League of Legends & NewJeans,2025-01-25,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-01-26,please don't change (feat. dj snake) | jung kook,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Please Don't Change (feat. DJ Snake),Jung Kook,2025-01-26,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-01-27,talk saxy | riize,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Talk Saxy,RIIZE,2025-01-27,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2025-01-27,love letter | lim young woong,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Love Letter,Lim Young Woong,2025-01-27,4,2.0,7.142857142857142,1.4084507042253522,5.42,Low Momentum,album
+2025-01-28,somebody | jung kook,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,Somebody,Jung Kook,2025-01-28,4,4.0,14.285714285714285,1.4084507042253522,10.42,Low Momentum,album
+2025-01-28,left and right (feat. jung kook of bts) | charlie puth,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,2025-01-28,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-01-28,omg | newjeans,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,OMG,NewJeans,2025-01-28,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,single
+2025-01-30,hate you | jung kook,Confirmed Re-entry,45.0,46.0,1.0,1.0,Rank Improved,Hate You,Jung Kook,2025-01-30,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,album
+2025-01-30,interlude : dive | jimin,Confirmed Re-entry,44.0,34.0,-10.0,-10.0,Rank Declined,Interlude : Dive,Jimin,2025-01-30,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-01-31,gods | league of legends & newjeans,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,GODS,League of Legends & NewJeans,2025-01-31,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-02-01,omg | newjeans,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,OMG,NewJeans,2025-02-01,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-02-01,love letter | lim young woong,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Love Letter,Lim Young Woong,2025-02-01,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-02-02,hate you | jung kook,Confirmed Re-entry,44.0,45.0,1.0,1.0,Rank Improved,Hate You,Jung Kook,2025-02-02,27,1.0,3.571428571428571,12.206572769953052,6.16,Low Momentum,album
+2025-02-02,somebody | jung kook,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,Somebody,Jung Kook,2025-02-02,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-02-02,interlude : dive | jimin,Confirmed Re-entry,47.0,36.0,-11.0,-11.0,Rank Declined,Interlude : Dive,Jimin,2025-02-02,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-02-03,maniac | viviz,Confirmed Re-entry,48.0,46.0,-2.0,-2.0,Rank Declined,MANIAC,VIVIZ,2025-02-03,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-02-03,beautiful things | benson boone,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,Beautiful Things,Benson Boone,2025-02-03,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-02-03,please don't change (feat. dj snake) | jung kook,Confirmed Re-entry,46.0,49.0,3.0,3.0,Rank Improved,Please Don't Change (feat. DJ Snake),Jung Kook,2025-02-03,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,album
+2025-02-04,interlude : dive | jimin,Confirmed Re-entry,48.0,47.0,-1.0,-1.0,Rank Declined,Interlude : Dive,Jimin,2025-02-04,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-02-04,omg | newjeans,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,OMG,NewJeans,2025-02-04,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-02-05,beautiful things | benson boone,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,Beautiful Things,Benson Boone,2025-02-05,24,4.0,14.285714285714285,10.7981220657277,13.24,Low Momentum,single
+2025-02-05,please don't change (feat. dj snake) | jung kook,Confirmed Re-entry,50.0,46.0,-4.0,-4.0,Rank Declined,Please Don't Change (feat. DJ Snake),Jung Kook,2025-02-05,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-02-07,love letter | lim young woong,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Love Letter,Lim Young Woong,2025-02-07,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-02-08,somebody | jung kook,Confirmed Re-entry,47.0,48.0,1.0,1.0,Rank Improved,Somebody,Jung Kook,2025-02-08,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,album
+2025-02-08,interlude : dive | jimin,Confirmed Re-entry,49.0,39.0,-10.0,-10.0,Rank Declined,Interlude : Dive,Jimin,2025-02-08,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-02-09,maniac | viviz,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,MANIAC,VIVIZ,2025-02-09,4,1.0,3.571428571428571,1.4084507042253522,2.92,Low Momentum,single
+2025-02-10,somebody | jung kook,Confirmed Re-entry,48.0,47.0,-1.0,-1.0,Rank Declined,Somebody,Jung Kook,2025-02-10,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-02-10,omg | newjeans,Confirmed Re-entry,43.0,50.0,7.0,7.0,Rank Improved,OMG,NewJeans,2025-02-10,3,7.0,25.0,0.9389671361502347,17.78,Low Momentum,single
+2025-02-10,hype boy | newjeans,Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,Hype Boy,NewJeans,2025-02-10,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-02-10,left and right (feat. jung kook of bts) | charlie puth,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,2025-02-10,1,4.0,14.285714285714285,0.0,10.0,Low Momentum,album
+2025-02-10,new jeans | newjeans,Confirmed Re-entry,45.0,49.0,4.0,4.0,Rank Improved,New Jeans,NewJeans,2025-02-10,1,4.0,14.285714285714285,0.0,10.0,Low Momentum,single
+2025-02-11,standing next to you (usher remix) | jung kook & usher,Confirmed Re-entry,34.0,33.0,-1.0,-1.0,Rank Declined,Standing Next to You (Usher Remix),Jung Kook & USHER,2025-02-11,15,0.0,0.0,6.572769953051644,1.97,Low Momentum,single
+2025-02-11,a psalm of life | lim young woong,Confirmed Re-entry,49.0,45.0,-4.0,-4.0,Rank Declined,A Psalm of Life,Lim Young Woong,2025-02-11,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-02-11,hero | lim young woong,Confirmed Re-entry,46.0,41.0,-5.0,-5.0,Rank Declined,HERO,Lim Young Woong,2025-02-11,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-02-11,lovely touch | lim young woong,Confirmed Re-entry,50.0,44.0,-6.0,-6.0,Rank Declined,Lovely Touch,Lim Young Woong,2025-02-11,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-02-12,love always run away | lim young woong,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,Love Always Run Away,Lim Young Woong,2025-02-12,1,4.0,14.285714285714285,0.0,10.0,Low Momentum,single
+2025-02-12,new jeans | newjeans,Confirmed Re-entry,43.0,45.0,2.0,2.0,Rank Improved,New Jeans,NewJeans,2025-02-12,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2025-02-13,somebody | jung kook,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Somebody,Jung Kook,2025-02-13,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-02-13,please don't change (feat. dj snake) | jung kook,Confirmed Re-entry,45.0,48.0,3.0,3.0,Rank Improved,Please Don't Change (feat. DJ Snake),Jung Kook,2025-02-13,16,3.0,10.714285714285714,7.042253521126761,9.61,Low Momentum,album
+2025-02-14,maniac | viviz,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,MANIAC,VIVIZ,2025-02-14,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-02-14,omg | newjeans,Confirmed Re-entry,47.0,41.0,-6.0,-6.0,Rank Declined,OMG,NewJeans,2025-02-14,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,single
+2025-02-14,bling-bang-bang-born | creepy nuts,Confirmed Re-entry,50.0,38.0,-12.0,-12.0,Rank Declined,Bling-Bang-Bang-Born,Creepy Nuts,2025-02-14,7,0.0,0.0,2.8169014084507045,0.85,Low Momentum,single
+2025-02-14,interlude : dive | jimin,Confirmed Re-entry,24.0,42.0,18.0,18.0,Rank Improved,Interlude : Dive,Jimin,2025-02-14,8,18.0,64.28571428571428,3.286384976525822,45.99,Moderate Momentum,single
+2025-02-14,my love mine all mine | mitski,Confirmed Re-entry,42.0,39.0,-3.0,-3.0,Rank Declined,My Love Mine All Mine,Mitski,2025-02-14,12,0.0,0.0,5.164319248826291,1.55,Low Momentum,album
+2025-02-14,new jeans | newjeans,Confirmed Re-entry,48.0,43.0,-5.0,-5.0,Rank Declined,New Jeans,NewJeans,2025-02-14,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,single
+2025-02-15,"yes, and? | ariana grande",Confirmed Re-entry,45.0,48.0,3.0,3.0,Rank Improved,"yes, and?",Ariana Grande,2025-02-15,4,3.0,10.714285714285714,1.4084507042253522,7.92,Low Momentum,single
+2025-02-15,super lady | (g)i-dle,Confirmed Re-entry,48.0,45.0,-3.0,-3.0,Rank Declined,Super Lady,(G)I-DLE,2025-02-15,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-02-16,ditto | newjeans,Confirmed Re-entry,50.0,42.0,-8.0,-8.0,Rank Declined,Ditto,NewJeans,2025-02-16,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-02-17,somebody | jung kook,Confirmed Re-entry,45.0,41.0,-4.0,-4.0,Rank Declined,Somebody,Jung Kook,2025-02-17,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-02-18,i love you | lim young woong,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,I Love You,Lim Young Woong,2025-02-18,3,3.0,10.714285714285714,0.9389671361502347,7.78,Low Momentum,album
+2025-02-18,hero | lim young woong,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,HERO,Lim Young Woong,2025-02-18,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-02-19,a psalm of life | lim young woong,Confirmed Re-entry,45.0,50.0,5.0,5.0,Rank Improved,A Psalm of Life,Lim Young Woong,2025-02-19,2,5.0,17.857142857142854,0.4694835680751174,12.64,Low Momentum,album
+2025-02-19,love always run away | lim young woong,Confirmed Re-entry,43.0,46.0,3.0,3.0,Rank Improved,Love Always Run Away,Lim Young Woong,2025-02-19,2,3.0,10.714285714285714,0.4694835680751174,7.64,Low Momentum,single
+2025-02-19,father | lim young woong,Confirmed Re-entry,46.0,46.0,0.0,0.0,No Rank Change,Father,Lim Young Woong,2025-02-19,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-02-19,lovely touch | lim young woong,Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,Lovely Touch,Lim Young Woong,2025-02-19,2,6.0,21.428571428571427,0.4694835680751174,15.14,Low Momentum,album
+2025-02-23,i love you | lim young woong,Confirmed Re-entry,50.0,42.0,-8.0,-8.0,Rank Declined,I Love You,Lim Young Woong,2025-02-23,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-02-23,eta | newjeans,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,ETA,NewJeans,2025-02-23,6,0.0,0.0,2.3474178403755865,0.7,Low Momentum,single
+2025-02-24,interlude : dive | jimin,Confirmed Re-entry,39.0,44.0,5.0,5.0,Rank Improved,Interlude : Dive,Jimin,2025-02-24,5,5.0,17.857142857142854,1.8779342723004695,13.06,Low Momentum,single
+2025-02-25,closer to you (feat. major lazer) | jung kook,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Closer to You (feat. Major Lazer),Jung Kook,2025-02-25,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,album
+2025-02-26,a psalm of life | lim young woong,Confirmed Re-entry,46.0,45.0,-1.0,-1.0,Rank Declined,A Psalm of Life,Lim Young Woong,2025-02-26,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-02-26,somebody | jung kook,Confirmed Re-entry,45.0,45.0,0.0,0.0,No Rank Change,Somebody,Jung Kook,2025-02-26,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-02-26,father | lim young woong,Confirmed Re-entry,50.0,46.0,-4.0,-4.0,Rank Declined,Father,Lim Young Woong,2025-02-26,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-02-26,i love you | lim young woong,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,I Love You,Lim Young Woong,2025-02-26,3,2.0,7.142857142857142,0.9389671361502347,5.28,Low Momentum,album
+2025-02-28,maniac | viviz,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,MANIAC,VIVIZ,2025-02-28,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-02-28,new jeans | newjeans,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,New Jeans,NewJeans,2025-02-28,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-03-03,standing next to you | jung kook,Confirmed Re-entry,8.0,8.0,0.0,0.0,No Rank Change,Standing Next to You,Jung Kook,2025-03-03,11,0.0,0.0,4.694835680751174,1.41,Low Momentum,album
+2025-03-04,i love you | lim young woong,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,I Love You,Lim Young Woong,2025-03-04,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-03-06,interlude : dive | jimin,Confirmed Re-entry,43.0,34.0,-9.0,-9.0,Rank Declined,Interlude : Dive,Jimin,2025-03-06,8,0.0,0.0,3.286384976525822,0.99,Low Momentum,single
+2025-03-06,stupid in love (feat. huh yunjin of le sserafim) | max,Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM),MAX,2025-03-06,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-03-06,carnival | ¥$ & kanye west & ty dolla $ign,Confirmed Re-entry,50.0,43.0,-7.0,-7.0,Rank Declined,CARNIVAL,¥$ & Kanye West & Ty Dolla $ign,2025-03-06,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-03-07,somebody | jung kook,Confirmed Re-entry,41.0,42.0,1.0,1.0,Rank Improved,Somebody,Jung Kook,2025-03-07,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,album
+2025-03-07,closer to you (feat. major lazer) | jung kook,Confirmed Re-entry,48.0,37.0,-11.0,-11.0,Rank Declined,Closer to You (feat. Major Lazer),Jung Kook,2025-03-07,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-03-08,new jeans | newjeans,Confirmed Re-entry,45.0,47.0,2.0,2.0,Rank Improved,New Jeans,NewJeans,2025-03-08,3,2.0,7.142857142857142,0.9389671361502347,5.28,Low Momentum,single
+2025-03-08,carnival | ¥$ & kanye west & ty dolla $ign,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,CARNIVAL,¥$ & Kanye West & Ty Dolla $ign,2025-03-08,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2025-03-09,wherever u r (ft. v of bts) | umi & v,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,wherever u r (ft. V of BTS),UMI & V,2025-03-09,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-03-09,i love you | lim young woong,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,I Love You,Lim Young Woong,2025-03-09,1,4.0,14.285714285714285,0.0,10.0,Low Momentum,album
+2025-03-10,somebody | jung kook,Confirmed Re-entry,50.0,42.0,-8.0,-8.0,Rank Declined,Somebody,Jung Kook,2025-03-10,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-03-10,"yes, and? | ariana grande",Confirmed Re-entry,30.0,49.0,19.0,19.0,Rank Improved,"yes, and?",Ariana Grande,2025-03-10,4,19.0,67.85714285714285,1.4084507042253522,47.92,Moderate Momentum,single
+2025-03-11,hate you | jung kook,Confirmed Re-entry,47.0,43.0,-4.0,-4.0,Rank Declined,Hate You,Jung Kook,2025-03-11,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-03-11,ditto | newjeans,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Ditto,NewJeans,2025-03-11,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,single
+2025-03-11,rainy days | v,Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,Rainy Days,V,2025-03-11,3,6.0,21.428571428571427,0.9389671361502347,15.28,Low Momentum,single
+2025-03-13,bling-bang-bang-born | creepy nuts,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Bling-Bang-Bang-Born,Creepy Nuts,2025-03-13,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2025-03-16,wherever u r (ft. v of bts) | umi & v,Confirmed Re-entry,41.0,46.0,5.0,5.0,Rank Improved,wherever u r (ft. V of BTS),UMI & V,2025-03-16,1,5.0,17.857142857142854,0.0,12.5,Low Momentum,single
+2025-03-16,closer to you (feat. major lazer) | jung kook,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,Closer to You (feat. Major Lazer),Jung Kook,2025-03-16,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-03-16,new jeans | newjeans,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,New Jeans,NewJeans,2025-03-16,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-03-17,too sad to dance | jung kook,Confirmed Re-entry,40.0,45.0,5.0,5.0,Rank Improved,Too Sad to Dance,Jung Kook,2025-03-17,1,5.0,17.857142857142854,0.0,12.5,Low Momentum,album
+2025-03-18,new jeans | newjeans,Confirmed Re-entry,47.0,49.0,2.0,2.0,Rank Improved,New Jeans,NewJeans,2025-03-18,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2025-03-18,ditto | newjeans,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Ditto,NewJeans,2025-03-18,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-03-19,too sad to dance | jung kook,Confirmed Re-entry,41.0,40.0,-1.0,-1.0,Rank Declined,Too Sad to Dance,Jung Kook,2025-03-19,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-03-19,my love mine all mine | mitski,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,My Love Mine All Mine,Mitski,2025-03-19,2,3.0,10.714285714285714,0.4694835680751174,7.64,Low Momentum,album
+2025-03-20,new jeans | newjeans,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,New Jeans,NewJeans,2025-03-20,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-03-21,too sad to dance | jung kook,Confirmed Re-entry,50.0,41.0,-9.0,-9.0,Rank Declined,Too Sad to Dance,Jung Kook,2025-03-21,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-03-22,my love mine all mine | mitski,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,My Love Mine All Mine,Mitski,2025-03-22,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-03-22,new jeans | newjeans,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,New Jeans,NewJeans,2025-03-22,3,1.0,3.571428571428571,0.9389671361502347,2.78,Low Momentum,single
+2025-03-23,stupid in love (feat. huh yunjin of le sserafim) | max,Confirmed Re-entry,48.0,45.0,-3.0,-3.0,Rank Declined,STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM),MAX,2025-03-23,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-03-24,rainy days | v,Confirmed Re-entry,44.0,39.0,-5.0,-5.0,Rank Declined,Rainy Days,V,2025-03-24,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-03-27,my love mine all mine | mitski,Confirmed Re-entry,41.0,50.0,9.0,9.0,Rank Improved,My Love Mine All Mine,Mitski,2025-03-27,2,9.0,32.14285714285714,0.4694835680751174,22.64,Low Momentum,album
+2025-03-29,like that | future & metro boomin,Confirmed Re-entry,46.0,48.0,2.0,2.0,Rank Improved,Like That,Future & Metro Boomin,2025-03-29,3,2.0,7.142857142857142,0.9389671361502347,5.28,Low Momentum,album
+2025-03-30,hype boy | newjeans,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,Hype Boy,NewJeans,2025-03-30,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-03-30,my love mine all mine | mitski,Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,My Love Mine All Mine,Mitski,2025-03-30,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-04-01,hype boy | newjeans,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,Hype Boy,NewJeans,2025-04-01,2,4.0,14.285714285714285,0.4694835680751174,10.14,Low Momentum,single
+2025-04-01,ditto | newjeans,Confirmed Re-entry,47.0,49.0,2.0,2.0,Rank Improved,Ditto,NewJeans,2025-04-01,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2025-04-01,time of our life -japanese ver.- - japanese ver. | day6,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,2025-04-01,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-04-01,omg | newjeans,Confirmed Re-entry,48.0,45.0,-3.0,-3.0,Rank Declined,OMG,NewJeans,2025-04-01,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-04-02,welcome to the show | day6,Confirmed Re-entry,48.0,47.0,-1.0,-1.0,Rank Declined,Welcome to the Show,DAY6,2025-04-02,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-04-04,hype boy | newjeans,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,Hype Boy,NewJeans,2025-04-04,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2025-04-05,a bientot | lim young woong,Confirmed Re-entry,46.0,47.0,1.0,1.0,Rank Improved,A bientot,Lim Young Woong,2025-04-05,13,1.0,3.571428571428571,5.633802816901409,4.19,Low Momentum,album
+2025-04-06,get a guitar | riize,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Get A Guitar,RIIZE,2025-04-06,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,single
+2025-04-06,filter | bts,Confirmed Re-entry,31.0,50.0,19.0,19.0,Rank Improved,Filter,BTS,2025-04-06,2,19.0,67.85714285714285,0.4694835680751174,47.64,Moderate Momentum,album
+2025-04-07,drama | aespa,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,Drama,aespa,2025-04-07,11,0.0,0.0,4.694835680751174,1.41,Low Momentum,album
+2025-04-07,eta | newjeans,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,ETA,NewJeans,2025-04-07,10,0.0,0.0,4.225352112676056,1.27,Low Momentum,single
+2025-04-09,if i have you only (my love x nerd connection) | nerd connection,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,If I have you only (My love X Nerd Connection),Nerd Connection,2025-04-09,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,single
+2025-04-10,no tomorrow - spotify singles | various artists,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,No Tomorrow - Spotify Singles,Various Artists,2025-04-10,2,4.0,14.285714285714285,0.4694835680751174,10.14,Low Momentum,single
+2025-04-11,hype boy | newjeans,Confirmed Re-entry,46.0,48.0,2.0,2.0,Rank Improved,Hype Boy,NewJeans,2025-04-11,6,2.0,7.142857142857142,2.3474178403755865,5.7,Low Momentum,single
+2025-04-12,get a guitar | riize,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Get A Guitar,RIIZE,2025-04-12,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-04-12,if i have you only (my love x nerd connection) | nerd connection,Confirmed Re-entry,43.0,47.0,4.0,4.0,Rank Improved,If I have you only (My love X Nerd Connection),Nerd Connection,2025-04-12,5,4.0,14.285714285714285,1.8779342723004695,10.56,Low Momentum,single
+2025-04-14,you were beautiful | day6,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,You Were Beautiful,DAY6,2025-04-14,4,2.0,7.142857142857142,1.4084507042253522,5.42,Low Momentum,album
+2025-04-14,time of our life -japanese ver.- - japanese ver. | day6,Confirmed Re-entry,42.0,49.0,7.0,7.0,Rank Improved,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,2025-04-14,7,7.0,25.0,2.8169014084507045,18.35,Low Momentum,single
+2025-04-16,welcome to the show | day6,Confirmed Re-entry,46.0,46.0,0.0,0.0,No Rank Change,Welcome to the Show,DAY6,2025-04-16,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-04-18,eta | newjeans,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,ETA,NewJeans,2025-04-18,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-04-18,if i have you only (my love x nerd connection) | nerd connection,Confirmed Re-entry,49.0,45.0,-4.0,-4.0,Rank Declined,If I have you only (My love X Nerd Connection),Nerd Connection,2025-04-18,9,0.0,0.0,3.755868544600939,1.13,Low Momentum,single
+2025-04-18,welcome to the show | day6,Confirmed Re-entry,48.0,46.0,-2.0,-2.0,Rank Declined,Welcome to the Show,DAY6,2025-04-18,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-04-19,a bientot | lim young woong,Confirmed Re-entry,43.0,40.0,-3.0,-3.0,Rank Declined,A bientot,Lim Young Woong,2025-04-19,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,album
+2025-04-19,you were beautiful | day6,Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,You Were Beautiful,DAY6,2025-04-19,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-04-20,drama | aespa,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Drama,aespa,2025-04-20,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-04-21,love wins all | iu,Confirmed Re-entry,48.0,47.0,-1.0,-1.0,Rank Declined,Love wins all,IU,2025-04-21,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-04-23,lucky girl syndrome | illit,Confirmed Re-entry,44.0,45.0,1.0,1.0,Rank Improved,Lucky Girl Syndrome,ILLIT,2025-04-23,33,1.0,3.571428571428571,15.023474178403756,7.01,Low Momentum,single
+2025-04-23,love 119 | riize,Confirmed Re-entry,50.0,44.0,-6.0,-6.0,Rank Declined,Love 119,RIIZE,2025-04-23,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,single
+2025-04-23,love you with all my heart | crush,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,Love You With All My Heart,Crush,2025-04-23,33,0.0,0.0,15.023474178403756,4.51,Low Momentum,single
+2025-04-23,i’ll see you there tomorrow | tomorrow x together,Confirmed Re-entry,45.0,42.0,-3.0,-3.0,Rank Declined,I’ll See You There Tomorrow,TOMORROW X TOGETHER,2025-04-23,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,album
+2025-04-23,time of our life -japanese ver.- - japanese ver. | day6,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,2025-04-23,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-04-24,a bientot | lim young woong,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,A bientot,Lim Young Woong,2025-04-24,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-04-24,"our blues, our life | lim young woong",Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,"Our Blues, Our Life",Lim Young Woong,2025-04-24,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,album
+2025-04-24,get a guitar | riize,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Get A Guitar,RIIZE,2025-04-24,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-04-25,time of our life -japanese ver.- - japanese ver. | day6,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,2025-04-25,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,single
+2025-04-26,cruel summer | taylor swift,Confirmed Re-entry,46.0,48.0,2.0,2.0,Rank Improved,Cruel Summer,Taylor Swift,2025-04-26,2,2.0,7.142857142857142,0.4694835680751174,5.14,Low Momentum,album
+2025-04-27,hype boy | newjeans,Confirmed Re-entry,45.0,48.0,3.0,3.0,Rank Improved,Hype Boy,NewJeans,2025-04-27,29,3.0,10.714285714285714,13.145539906103284,11.44,Low Momentum,single
+2025-04-27,new jeans | newjeans,Confirmed Re-entry,40.0,48.0,8.0,8.0,Rank Improved,New Jeans,NewJeans,2025-04-27,75,8.0,28.57142857142857,34.74178403755869,30.42,Low Momentum,single
+2025-04-27,eta | newjeans,Confirmed Re-entry,41.0,50.0,9.0,9.0,Rank Improved,ETA,NewJeans,2025-04-27,29,9.0,32.14285714285714,13.145539906103284,26.44,Low Momentum,single
+2025-04-27,ditto | newjeans,Confirmed Re-entry,46.0,47.0,1.0,1.0,Rank Improved,Ditto,NewJeans,2025-04-27,19,1.0,3.571428571428571,8.450704225352112,5.04,Low Momentum,single
+2025-04-28,attention | newjeans,Confirmed Re-entry,38.0,48.0,10.0,10.0,Rank Improved,Attention,NewJeans,2025-04-28,14,10.0,35.71428571428571,6.103286384976527,26.83,Low Momentum,single
+2025-04-28,omg | newjeans,Confirmed Re-entry,41.0,48.0,7.0,7.0,Rank Improved,OMG,NewJeans,2025-04-28,21,7.0,25.0,9.389671361502348,20.32,Low Momentum,single
+2025-04-29,"our blues, our life | lim young woong",Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,"Our Blues, Our Life",Lim Young Woong,2025-04-29,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-05-01,little light | doyoung,Confirmed Re-entry,43.0,40.0,-3.0,-3.0,Rank Declined,Little Light,DOYOUNG,2025-05-01,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,album
+2025-05-02,"our blues, our life | lim young woong",Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,"Our Blues, Our Life",Lim Young Woong,2025-05-02,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-05-02,slow dancing | v,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,Slow Dancing,V,2025-05-02,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2025-05-03,drama | aespa,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,Drama,aespa,2025-05-03,7,3.0,10.714285714285714,2.8169014084507045,8.35,Low Momentum,album
+2025-05-04,slow dancing | v,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,Slow Dancing,V,2025-05-04,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-05-05,bam yang gang | bibi,Confirmed Re-entry,47.0,45.0,-2.0,-2.0,Rank Declined,Bam Yang Gang,BIBI,2025-05-05,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-05-05,to. x | taeyeon,Confirmed Re-entry,50.0,42.0,-8.0,-8.0,Rank Declined,To. X,TAEYEON,2025-05-05,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-05-06,euphoria | kendrick lamar,Confirmed Re-entry,50.0,42.0,-8.0,-8.0,Rank Declined,euphoria,Kendrick Lamar,2025-05-06,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-05-06,yes or no | jung kook,Confirmed Re-entry,47.0,46.0,-1.0,-1.0,Rank Declined,Yes or No,Jung Kook,2025-05-06,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-05-07,a bientot | lim young woong,Confirmed Re-entry,43.0,48.0,5.0,5.0,Rank Improved,A bientot,Lim Young Woong,2025-05-07,1,5.0,17.857142857142854,0.0,12.5,Low Momentum,album
+2025-05-07,"our blues, our life | lim young woong",Confirmed Re-entry,42.0,49.0,7.0,7.0,Rank Improved,"Our Blues, Our Life",Lim Young Woong,2025-05-07,2,7.0,25.0,0.4694835680751174,17.64,Low Momentum,album
+2025-05-07,slow dancing | v,Confirmed Re-entry,44.0,48.0,4.0,4.0,Rank Improved,Slow Dancing,V,2025-05-07,2,4.0,14.285714285714285,0.4694835680751174,10.14,Low Momentum,single
+2025-05-08,we can't be friends (wait for your love) | ariana grande,Confirmed Re-entry,50.0,46.0,-4.0,-4.0,Rank Declined,we can't be friends (wait for your love),Ariana Grande,2025-05-08,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,album
+2025-05-10,"our blues, our life | lim young woong",Confirmed Re-entry,46.0,49.0,3.0,3.0,Rank Improved,"Our Blues, Our Life",Lim Young Woong,2025-05-10,5,3.0,10.714285714285714,1.8779342723004695,8.06,Low Momentum,album
+2025-05-11,drama | aespa,Confirmed Re-entry,46.0,47.0,1.0,1.0,Rank Improved,Drama,aespa,2025-05-11,54,1.0,3.571428571428571,24.88262910798122,9.96,Low Momentum,album
+2025-05-13,perfect night | le sserafim,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,Perfect Night,LE SSERAFIM,2025-05-13,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-05-14,attention | newjeans,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Attention,NewJeans,2025-05-14,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-05-15,sudden shower | eclipse,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,Sudden Shower,ECLIPSE,2025-05-15,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-05-15,maestro | seventeen,Confirmed Re-entry,49.0,41.0,-8.0,-8.0,Rank Declined,MAESTRO,SEVENTEEN,2025-05-15,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-05-16,"our blues, our life | lim young woong",Confirmed Re-entry,46.0,47.0,1.0,1.0,Rank Improved,"Our Blues, Our Life",Lim Young Woong,2025-05-16,3,1.0,3.571428571428571,0.9389671361502347,2.78,Low Momentum,album
+2025-05-17,ditto | newjeans,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Ditto,NewJeans,2025-05-17,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-05-18,mars | d.o.,Confirmed Re-entry,47.0,48.0,1.0,1.0,Rank Improved,Mars,D.O.,2025-05-18,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2025-05-19,spring snow | 10cm,Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,Spring Snow,10CM,2025-05-19,1,6.0,21.428571428571427,0.0,15.0,Low Momentum,single
+2025-05-19,attention | newjeans,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Attention,NewJeans,2025-05-19,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2025-05-20,"our blues, our life | lim young woong",Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,"Our Blues, Our Life",Lim Young Woong,2025-05-20,2,2.0,7.142857142857142,0.4694835680751174,5.14,Low Momentum,album
+2025-05-20,ditto | newjeans,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Ditto,NewJeans,2025-05-20,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-05-20,perfect night | le sserafim,Confirmed Re-entry,46.0,49.0,3.0,3.0,Rank Improved,Perfect Night,LE SSERAFIM,2025-05-20,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,single
+2025-05-20,omg | newjeans,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,OMG,NewJeans,2025-05-20,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-05-21,sudden shower | eclipse,Confirmed Re-entry,48.0,43.0,-5.0,-5.0,Rank Declined,Sudden Shower,ECLIPSE,2025-05-21,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,single
+2025-05-22,spring snow | 10cm,Confirmed Re-entry,46.0,44.0,-2.0,-2.0,Rank Declined,Spring Snow,10CM,2025-05-22,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-05-23,i had some help (feat. morgan wallen) | post malone & morgan wallen,Confirmed Re-entry,50.0,45.0,-5.0,-5.0,Rank Declined,I Had Some Help (Feat. Morgan Wallen),Post Malone & Morgan Wallen,2025-05-23,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-05-23,perfect night | le sserafim,Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,Perfect Night,LE SSERAFIM,2025-05-23,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-05-23,chihiro | billie eilish,Confirmed Re-entry,46.0,47.0,1.0,1.0,Rank Improved,CHIHIRO,Billie Eilish,2025-05-23,3,1.0,3.571428571428571,0.9389671361502347,2.78,Low Momentum,album
+2025-05-26,come back to me | rm,Confirmed Re-entry,42.0,47.0,5.0,5.0,Rank Improved,Come back to me,RM,2025-05-26,1,5.0,17.857142857142854,0.0,12.5,Low Momentum,single
+2025-05-26,jealousyvalhalla | yanghongwon,Confirmed Re-entry,16.0,44.0,28.0,28.0,Rank Improved,Jealousyvalhalla,YANGHONGWON,2025-05-26,7,28.0,100.0,2.8169014084507045,70.85,High Momentum,single
+2025-05-27,smart | le sserafim,Confirmed Re-entry,39.0,36.0,-3.0,-3.0,Rank Declined,Smart,LE SSERAFIM,2025-05-27,25,0.0,0.0,11.267605633802818,3.38,Low Momentum,single
+2025-05-27,lucky girl syndrome | illit,Confirmed Re-entry,45.0,37.0,-8.0,-8.0,Rank Declined,Lucky Girl Syndrome,ILLIT,2025-05-27,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-05-27,hype boy | newjeans,Confirmed Re-entry,49.0,43.0,-6.0,-6.0,Rank Declined,Hype Boy,NewJeans,2025-05-27,45,0.0,0.0,20.657276995305164,6.2,Low Momentum,single
+2025-05-27,eta | newjeans,Confirmed Re-entry,48.0,44.0,-4.0,-4.0,Rank Declined,ETA,NewJeans,2025-05-27,40,0.0,0.0,18.309859154929576,5.49,Low Momentum,single
+2025-05-27,fate | (g)i-dle,Confirmed Re-entry,44.0,40.0,-4.0,-4.0,Rank Declined,Fate,(G)I-DLE,2025-05-27,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-05-28,sudden shower | eclipse,Confirmed Re-entry,38.0,41.0,3.0,3.0,Rank Improved,Sudden Shower,ECLIPSE,2025-05-28,44,3.0,10.714285714285714,20.187793427230048,13.56,Low Momentum,single
+2025-05-28,fortnight (feat. post malone) | taylor swift,Confirmed Re-entry,50.0,46.0,-4.0,-4.0,Rank Declined,Fortnight (feat. Post Malone),Taylor Swift,2025-05-28,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-05-28,birds of a feather | billie eilish,Confirmed Re-entry,41.0,37.0,-4.0,-4.0,Rank Declined,BIRDS OF A FEATHER,Billie Eilish,2025-05-28,44,0.0,0.0,20.187793427230048,6.06,Low Momentum,album
+2025-05-29,spring snow | 10cm,Confirmed Re-entry,50.0,38.0,-12.0,-12.0,Rank Declined,Spring Snow,10CM,2025-05-29,16,0.0,0.0,7.042253521126761,2.11,Low Momentum,single
+2025-05-29,if we ever meet again | lim young woong,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,If We Ever Meet Again,Lim Young Woong,2025-05-29,43,0.0,0.0,19.718309859154928,5.92,Low Momentum,album
+2025-05-30,not like us | kendrick lamar,Confirmed Re-entry,48.0,29.0,-19.0,-19.0,Rank Declined,Not Like Us,Kendrick Lamar,2025-05-30,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-05-31,face-off | jimin,Confirmed Re-entry,49.0,45.0,-4.0,-4.0,Rank Declined,Face-off,Jimin,2025-05-31,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-05-31,alone | jimin,Confirmed Re-entry,45.0,40.0,-5.0,-5.0,Rank Declined,Alone,Jimin,2025-05-31,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-05-31,ditto | newjeans,Confirmed Re-entry,42.0,49.0,7.0,7.0,Rank Improved,Ditto,NewJeans,2025-05-31,41,7.0,25.0,18.779342723004692,23.13,Low Momentum,single
+2025-06-01,fate | (g)i-dle,Confirmed Re-entry,49.0,44.0,-5.0,-5.0,Rank Declined,Fate,(G)I-DLE,2025-06-01,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,album
+2025-06-01,attention | newjeans,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,Attention,NewJeans,2025-06-01,8,0.0,0.0,3.286384976525822,0.99,Low Momentum,single
+2025-06-01,perfect night | le sserafim,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Perfect Night,LE SSERAFIM,2025-06-01,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2025-06-01,omg | newjeans,Confirmed Re-entry,45.0,50.0,5.0,5.0,Rank Improved,OMG,NewJeans,2025-06-01,40,5.0,17.857142857142854,18.309859154929576,17.99,Low Momentum,single
+2025-06-02,fortnight (feat. post malone) | taylor swift,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Fortnight (feat. Post Malone),Taylor Swift,2025-06-02,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,album
+2025-06-02,lucky girl syndrome | illit,Confirmed Re-entry,43.0,45.0,2.0,2.0,Rank Improved,Lucky Girl Syndrome,ILLIT,2025-06-02,8,2.0,7.142857142857142,3.286384976525822,5.99,Low Momentum,single
+2025-06-02,plot twist | tws,Confirmed Re-entry,46.0,48.0,2.0,2.0,Rank Improved,plot twist,TWS,2025-06-02,14,2.0,7.142857142857142,6.103286384976527,6.83,Low Momentum,single
+2025-06-02,face-off | jimin,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Face-off,Jimin,2025-06-02,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-06-02,alone | jimin,Confirmed Re-entry,44.0,45.0,1.0,1.0,Rank Improved,Alone,Jimin,2025-06-02,28,1.0,3.571428571428571,12.676056338028168,6.3,Low Momentum,single
+2025-06-03,time of our life -japanese ver.- - japanese ver. | day6,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,2025-06-03,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-06-03,perfect night | le sserafim,Confirmed Re-entry,46.0,48.0,2.0,2.0,Rank Improved,Perfect Night,LE SSERAFIM,2025-06-03,9,2.0,7.142857142857142,3.755868544600939,6.13,Low Momentum,single
+2025-06-04,rainbow | lim young woong,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Rainbow,Lim Young Woong,2025-06-04,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-06-05,interlude : dive | jimin,Confirmed Re-entry,41.0,43.0,2.0,2.0,Rank Improved,Interlude : Dive,Jimin,2025-06-05,4,2.0,7.142857142857142,1.4084507042253522,5.42,Low Momentum,single
+2025-06-05,face-off | jimin,Confirmed Re-entry,43.0,49.0,6.0,6.0,Rank Improved,Face-off,Jimin,2025-06-05,3,6.0,21.428571428571427,0.9389671361502347,15.28,Low Momentum,single
+2025-06-07,rainbow | lim young woong,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Rainbow,Lim Young Woong,2025-06-07,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,album
+2025-06-08,closer to you (feat. major lazer) | jung kook,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Closer to You (feat. Major Lazer),Jung Kook,2025-06-08,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,album
+2025-06-09,face-off | jimin,Confirmed Re-entry,41.0,43.0,2.0,2.0,Rank Improved,Face-off,Jimin,2025-06-09,15,2.0,7.142857142857142,6.572769953051644,6.97,Low Momentum,single
+2025-06-10,"our blues, our life | lim young woong",Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,"Our Blues, Our Life",Lim Young Woong,2025-06-10,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-06-12,interlude : dive | jimin,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,Interlude : Dive,Jimin,2025-06-12,12,4.0,14.285714285714285,5.164319248826291,11.55,Low Momentum,single
+2025-06-12,cruel summer | taylor swift,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,Cruel Summer,Taylor Swift,2025-06-12,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,album
+2025-06-12,lucky girl syndrome | illit,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,Lucky Girl Syndrome,ILLIT,2025-06-12,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,single
+2025-06-14,attention | newjeans,Confirmed Re-entry,48.0,44.0,-4.0,-4.0,Rank Declined,Attention,NewJeans,2025-06-14,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-06-14,perfect night | le sserafim,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Perfect Night,LE SSERAFIM,2025-06-14,7,0.0,0.0,2.8169014084507045,0.85,Low Momentum,single
+2025-06-16,rainbow | lim young woong,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,Rainbow,Lim Young Woong,2025-06-16,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-06-17,plot twist | tws,Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,plot twist,TWS,2025-06-17,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-06-17,cruel summer | taylor swift,Confirmed Re-entry,47.0,49.0,2.0,2.0,Rank Improved,Cruel Summer,Taylor Swift,2025-06-17,5,2.0,7.142857142857142,1.8779342723004695,5.56,Low Momentum,album
+2025-06-18,rainbow | lim young woong,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Rainbow,Lim Young Woong,2025-06-18,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-06-18,impossible | riize,Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,Impossible,RIIZE,2025-06-18,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-06-19,midas touch | kiss of life,Confirmed Re-entry,49.0,45.0,-4.0,-4.0,Rank Declined,Midas Touch,KISS OF LIFE,2025-06-19,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-06-21,"our blues, our life | lim young woong",Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,"Our Blues, Our Life",Lim Young Woong,2025-06-21,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-06-21,rainbow | lim young woong,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Rainbow,Lim Young Woong,2025-06-21,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,album
+2025-06-22,not like us | kendrick lamar,Confirmed Re-entry,47.0,44.0,-3.0,-3.0,Rank Declined,Not Like Us,Kendrick Lamar,2025-06-22,8,0.0,0.0,3.286384976525822,0.99,Low Momentum,single
+2025-06-24,a bientot | lim young woong,Confirmed Re-entry,45.0,43.0,-2.0,-2.0,Rank Declined,A bientot,Lim Young Woong,2025-06-24,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-06-24,"our blues, our life | lim young woong",Confirmed Re-entry,39.0,50.0,11.0,11.0,Rank Improved,"Our Blues, Our Life",Lim Young Woong,2025-06-24,4,11.0,39.285714285714285,1.4084507042253522,27.92,Low Momentum,album
+2025-06-24,rainbow | lim young woong,Confirmed Re-entry,42.0,48.0,6.0,6.0,Rank Improved,Rainbow,Lim Young Woong,2025-06-24,5,6.0,21.428571428571427,1.8779342723004695,15.56,Low Momentum,album
+2025-06-24,girls never die | triples,Confirmed Re-entry,50.0,42.0,-8.0,-8.0,Rank Declined,Girls Never Die,tripleS,2025-06-24,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,album
+2025-06-26,face-off | jimin,Confirmed Re-entry,47.0,40.0,-7.0,-7.0,Rank Declined,Face-off,Jimin,2025-06-26,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-06-28,fri(end)s | v,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,FRI(END)S,V,2025-06-28,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-06-28,attention | newjeans,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Attention,NewJeans,2025-06-28,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-06-28,interlude : dive | jimin,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,Interlude : Dive,Jimin,2025-06-28,2,3.0,10.714285714285714,0.4694835680751174,7.64,Low Momentum,single
+2025-06-29,midas touch | kiss of life,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Midas Touch,KISS OF LIFE,2025-06-29,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-06-29,easy | le sserafim,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,EASY,LE SSERAFIM,2025-06-29,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-06-30,fri(end)s | v,Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,FRI(END)S,V,2025-06-30,11,0.0,0.0,4.694835680751174,1.41,Low Momentum,single
+2025-06-30,"our blues, our life | lim young woong",Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,"Our Blues, Our Life",Lim Young Woong,2025-06-30,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-06-30,rainbow | lim young woong,Confirmed Re-entry,46.0,49.0,3.0,3.0,Rank Improved,Rainbow,Lim Young Woong,2025-06-30,11,3.0,10.714285714285714,4.694835680751174,8.91,Low Momentum,album
+2025-07-01,alone | jimin,Confirmed Re-entry,50.0,26.0,-24.0,-24.0,Rank Declined,Alone,Jimin,2025-07-01,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-07-01,face-off | jimin,Confirmed Re-entry,49.0,36.0,-13.0,-13.0,Rank Declined,Face-off,Jimin,2025-07-01,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-07-04,"our blues, our life | lim young woong",Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,"Our Blues, Our Life",Lim Young Woong,2025-07-04,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-07-04,sheesh | babymonster,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,SHEESH,BABYMONSTER,2025-07-04,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-07-06,"our blues, our life | lim young woong",Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,"Our Blues, Our Life",Lim Young Woong,2025-07-06,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,album
+2025-07-06,face-off | jimin,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Face-off,Jimin,2025-07-06,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-07-07,not like us | kendrick lamar,Confirmed Re-entry,40.0,44.0,4.0,4.0,Rank Improved,Not Like Us,Kendrick Lamar,2025-07-07,4,4.0,14.285714285714285,1.4084507042253522,10.42,Low Momentum,single
+2025-07-08,eta | newjeans,Confirmed Re-entry,48.0,47.0,-1.0,-1.0,Rank Declined,ETA,NewJeans,2025-07-08,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-07-09,"our blues, our life | lim young woong",Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,"Our Blues, Our Life",Lim Young Woong,2025-07-09,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-07-14,eta | newjeans,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,ETA,NewJeans,2025-07-14,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-07-15,"our blues, our life | lim young woong",Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,"Our Blues, Our Life",Lim Young Woong,2025-07-15,6,4.0,14.285714285714285,2.3474178403755865,10.7,Low Momentum,album
+2025-07-15,rainbow | lim young woong,Confirmed Re-entry,45.0,47.0,2.0,2.0,Rank Improved,Rainbow,Lim Young Woong,2025-07-15,10,2.0,7.142857142857142,4.225352112676056,6.27,Low Momentum,album
+2025-07-17,fri(end)s | v,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,FRI(END)S,V,2025-07-17,4,2.0,7.142857142857142,1.4084507042253522,5.42,Low Momentum,single
+2025-07-18,a bientot | lim young woong,Confirmed Re-entry,48.0,45.0,-3.0,-3.0,Rank Declined,A bientot,Lim Young Woong,2025-07-18,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-07-19,alone | jimin,Confirmed Re-entry,43.0,50.0,7.0,7.0,Rank Improved,Alone,Jimin,2025-07-19,2,7.0,25.0,0.4694835680751174,17.64,Low Momentum,single
+2025-07-19,face-off | jimin,Confirmed Re-entry,37.0,50.0,13.0,13.0,Rank Improved,Face-off,Jimin,2025-07-19,2,13.0,46.42857142857142,0.4694835680751174,32.64,Low Momentum,single
+2025-07-20,ditto | newjeans,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Ditto,NewJeans,2025-07-20,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2025-07-22,"our blues, our life | lim young woong",Confirmed Re-entry,46.0,43.0,-3.0,-3.0,Rank Declined,"Our Blues, Our Life",Lim Young Woong,2025-07-22,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-07-22,fri(end)s | v,Confirmed Re-entry,49.0,45.0,-4.0,-4.0,Rank Declined,FRI(END)S,V,2025-07-22,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-07-23,please please please | sabrina carpenter,Confirmed Re-entry,50.0,45.0,-5.0,-5.0,Rank Declined,Please Please Please,Sabrina Carpenter,2025-07-23,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-07-24,ditto | newjeans,Confirmed Re-entry,45.0,49.0,4.0,4.0,Rank Improved,Ditto,NewJeans,2025-07-24,1,4.0,14.285714285714285,0.0,10.0,Low Momentum,single
+2025-07-24,eta | newjeans,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,ETA,NewJeans,2025-07-24,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-07-24,omg | newjeans,Confirmed Re-entry,42.0,50.0,8.0,8.0,Rank Improved,OMG,NewJeans,2025-07-24,8,8.0,28.57142857142857,3.286384976525822,20.99,Low Momentum,single
+2025-07-26,ditto | newjeans,Confirmed Re-entry,50.0,45.0,-5.0,-5.0,Rank Declined,Ditto,NewJeans,2025-07-26,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,single
+2025-07-27,klaxon | (g)i-dle,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,Klaxon,(G)I-DLE,2025-07-27,17,0.0,0.0,7.511737089201878,2.25,Low Momentum,single
+2025-07-29,rainbow | lim young woong,Confirmed Re-entry,47.0,44.0,-3.0,-3.0,Rank Declined,Rainbow,Lim Young Woong,2025-07-29,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-07-31,not like us | kendrick lamar,Confirmed Re-entry,47.0,46.0,-1.0,-1.0,Rank Declined,Not Like Us,Kendrick Lamar,2025-07-31,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-07-31,cruel summer | taylor swift,Confirmed Re-entry,50.0,45.0,-5.0,-5.0,Rank Declined,Cruel Summer,Taylor Swift,2025-07-31,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,album
+2025-08-01,please please please | sabrina carpenter,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Please Please Please,Sabrina Carpenter,2025-08-01,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-08-03,easy | le sserafim,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,EASY,LE SSERAFIM,2025-08-03,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-08-03,ditto | newjeans,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,Ditto,NewJeans,2025-08-03,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,single
+2025-08-04,rainbow | lim young woong,Confirmed Re-entry,48.0,47.0,-1.0,-1.0,Rank Declined,Rainbow,Lim Young Woong,2025-08-04,6,0.0,0.0,2.3474178403755865,0.7,Low Momentum,album
+2025-08-05,"our blues, our life | lim young woong",Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,"Our Blues, Our Life",Lim Young Woong,2025-08-05,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-08-05,who (beautiful mind remix) | jimin,Confirmed Re-entry,50.0,35.0,-15.0,-15.0,Rank Declined,Who (Beautiful Mind Remix),Jimin,2025-08-05,8,0.0,0.0,3.286384976525822,0.99,Low Momentum,album
+2025-08-07,chk chk boom | stray kids,Confirmed Re-entry,44.0,46.0,2.0,2.0,Rank Improved,Chk Chk Boom,Stray Kids,2025-08-07,3,2.0,7.142857142857142,0.9389671361502347,5.28,Low Momentum,album
+2025-08-07,cruel summer | taylor swift,Confirmed Re-entry,48.0,47.0,-1.0,-1.0,Rank Declined,Cruel Summer,Taylor Swift,2025-08-07,6,0.0,0.0,2.3474178403755865,0.7,Low Momentum,album
+2025-08-08,easy | le sserafim,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,EASY,LE SSERAFIM,2025-08-08,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2025-08-09,"our blues, our life | lim young woong",Confirmed Re-entry,46.0,49.0,3.0,3.0,Rank Improved,"Our Blues, Our Life",Lim Young Woong,2025-08-09,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,album
+2025-08-10,easy | le sserafim,Confirmed Re-entry,38.0,49.0,11.0,11.0,Rank Improved,EASY,LE SSERAFIM,2025-08-10,3,11.0,39.285714285714285,0.9389671361502347,27.78,Low Momentum,single
+2025-08-10,perfect night | le sserafim,Confirmed Re-entry,42.0,50.0,8.0,8.0,Rank Improved,Perfect Night,LE SSERAFIM,2025-08-10,3,8.0,28.57142857142857,0.9389671361502347,20.28,Low Momentum,single
+2025-08-10,ditto | newjeans,Confirmed Re-entry,45.0,47.0,2.0,2.0,Rank Improved,Ditto,NewJeans,2025-08-10,2,2.0,7.142857142857142,0.4694835680751174,5.14,Low Momentum,single
+2025-08-11,new jeans | newjeans,Confirmed Re-entry,50.0,45.0,-5.0,-5.0,Rank Declined,New Jeans,NewJeans,2025-08-11,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-08-12,"our blues, our life | lim young woong",Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,"Our Blues, Our Life",Lim Young Woong,2025-08-12,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-08-12,rainbow | lim young woong,Confirmed Re-entry,47.0,43.0,-4.0,-4.0,Rank Declined,Rainbow,Lim Young Woong,2025-08-12,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-08-15,klaxon | (g)i-dle,Confirmed Re-entry,45.0,48.0,3.0,3.0,Rank Improved,Klaxon,(G)I-DLE,2025-08-15,2,3.0,10.714285714285714,0.4694835680751174,7.64,Low Momentum,single
+2025-08-15,please please please | sabrina carpenter,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,Please Please Please,Sabrina Carpenter,2025-08-15,2,3.0,10.714285714285714,0.4694835680751174,7.64,Low Momentum,single
+2025-08-17,who (funky remix) | jimin,Confirmed Re-entry,44.0,49.0,5.0,5.0,Rank Improved,Who (Funky Remix),Jimin,2025-08-17,1,5.0,17.857142857142854,0.0,12.5,Low Momentum,album
+2025-08-17,omg | newjeans,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,OMG,NewJeans,2025-08-17,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-08-17,who (beautiful mind remix) | jimin,Confirmed Re-entry,49.0,43.0,-6.0,-6.0,Rank Declined,Who (Beautiful Mind Remix),Jimin,2025-08-17,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-08-18,left and right (feat. jung kook of bts) | charlie puth,Confirmed Re-entry,47.0,46.0,-1.0,-1.0,Rank Declined,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,2025-08-18,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,album
+2025-08-18,new jeans | newjeans,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,New Jeans,NewJeans,2025-08-18,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-08-20,who (beautiful mind remix) | jimin,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Who (Beautiful Mind Remix),Jimin,2025-08-20,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-08-20,who (funky remix) | jimin,Confirmed Re-entry,39.0,44.0,5.0,5.0,Rank Improved,Who (Funky Remix),Jimin,2025-08-20,5,5.0,17.857142857142854,1.8779342723004695,13.06,Low Momentum,album
+2025-08-23,who (instrumental) | jimin,Confirmed Re-entry,46.0,45.0,-1.0,-1.0,Rank Declined,Who (Instrumental),Jimin,2025-08-23,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-08-23,left and right (feat. jung kook of bts) | charlie puth,Confirmed Re-entry,43.0,48.0,5.0,5.0,Rank Improved,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,2025-08-23,24,5.0,17.857142857142854,10.7981220657277,15.74,Low Momentum,album
+2025-08-23,who (beautiful mind remix) | jimin,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Who (Beautiful Mind Remix),Jimin,2025-08-23,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-08-24,please please please | sabrina carpenter,Confirmed Re-entry,33.0,47.0,14.0,14.0,Rank Improved,Please Please Please,Sabrina Carpenter,2025-08-24,9,14.0,50.0,3.755868544600939,36.13,Low Momentum,single
+2025-08-24,easy | le sserafim,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,EASY,LE SSERAFIM,2025-08-24,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,single
+2025-08-24,super shy | newjeans,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,Super Shy,NewJeans,2025-08-24,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-08-24,field trip | ¥$ & kanye west & ty dolla $ign,Confirmed Re-entry,31.0,39.0,8.0,8.0,Rank Improved,FIELD TRIP,¥$ & Kanye West & Ty Dolla $ign,2025-08-24,2,8.0,28.57142857142857,0.4694835680751174,20.14,Low Momentum,album
+2025-08-25,perfect night | le sserafim,Confirmed Re-entry,50.0,40.0,-10.0,-10.0,Rank Declined,Perfect Night,LE SSERAFIM,2025-08-25,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-08-25,cruel summer | taylor swift,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,Cruel Summer,Taylor Swift,2025-08-25,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-08-25,t.b.h | qwer,Confirmed Re-entry,44.0,47.0,3.0,3.0,Rank Improved,T.B.H,QWER,2025-08-25,4,3.0,10.714285714285714,1.4084507042253522,7.92,Low Momentum,single
+2025-08-26,easy | le sserafim,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,EASY,LE SSERAFIM,2025-08-26,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-08-28,who (acoustic remix) | jimin,Confirmed Re-entry,45.0,43.0,-2.0,-2.0,Rank Declined,Who (Acoustic Remix),Jimin,2025-08-28,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-08-28,who (rock remix) | jimin,Confirmed Re-entry,42.0,35.0,-7.0,-7.0,Rank Declined,Who (Rock Remix),Jimin,2025-08-28,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-08-28,perfect night | le sserafim,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Perfect Night,LE SSERAFIM,2025-08-28,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2025-08-29,big dawgs | hanumankind & kalmi,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,Big Dawgs,Hanumankind & Kalmi,2025-08-29,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-08-29,happy | day6,Confirmed Re-entry,42.0,39.0,-3.0,-3.0,Rank Declined,HAPPY,DAY6,2025-08-29,91,0.0,0.0,42.25352112676056,12.68,Low Momentum,album
+2025-08-29,easy | le sserafim,Confirmed Re-entry,45.0,49.0,4.0,4.0,Rank Improved,EASY,LE SSERAFIM,2025-08-29,3,4.0,14.285714285714285,0.9389671361502347,10.28,Low Momentum,single
+2025-08-31,hype boy | newjeans,Confirmed Re-entry,47.0,44.0,-3.0,-3.0,Rank Declined,Hype Boy,NewJeans,2025-08-31,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-08-31,cruel summer | taylor swift,Confirmed Re-entry,43.0,47.0,4.0,4.0,Rank Improved,Cruel Summer,Taylor Swift,2025-08-31,1,4.0,14.285714285714285,0.0,10.0,Low Momentum,album
+2025-09-01,perfect night | le sserafim,Confirmed Re-entry,45.0,48.0,3.0,3.0,Rank Improved,Perfect Night,LE SSERAFIM,2025-09-01,51,3.0,10.714285714285714,23.474178403755868,14.54,Low Momentum,single
+2025-09-02,why? | plave,Confirmed Re-entry,49.0,34.0,-15.0,-15.0,Rank Declined,Why?,PLAVE,2025-09-02,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-09-02,if i have you only (my love x nerd connection) | nerd connection,Confirmed Re-entry,46.0,44.0,-2.0,-2.0,Rank Declined,If I have you only (My love X Nerd Connection),Nerd Connection,2025-09-02,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-09-02,small girl (feat. d.o.) | lee young ji,Confirmed Re-entry,43.0,44.0,1.0,1.0,Rank Improved,Small girl (feat. D.O.),Lee Young Ji,2025-09-02,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,single
+2025-09-05,like crazy | jimin,Confirmed Re-entry,33.0,38.0,5.0,5.0,Rank Improved,Like Crazy,Jimin,2025-09-05,84,5.0,17.857142857142854,38.967136150234744,24.19,Low Momentum,single
+2025-09-05,time of our life -japanese ver.- - japanese ver. | day6,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,2025-09-05,30,0.0,0.0,13.615023474178404,4.08,Low Momentum,single
+2025-09-05,touch | katseye,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,Touch,KATSEYE,2025-09-05,68,3.0,10.714285714285714,31.455399061032864,16.94,Low Momentum,single
+2025-09-07,hype boy | newjeans,Confirmed Re-entry,46.0,47.0,1.0,1.0,Rank Improved,Hype Boy,NewJeans,2025-09-07,6,1.0,3.571428571428571,2.3474178403755865,3.2,Low Momentum,single
+2025-09-07,million dollar baby | tommy richman,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,MILLION DOLLAR BABY,Tommy Richman,2025-09-07,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-09-07,if i have you only (my love x nerd connection) | nerd connection,Confirmed Re-entry,48.0,46.0,-2.0,-2.0,Rank Declined,If I have you only (My love X Nerd Connection),Nerd Connection,2025-09-07,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-09-07,welcome to the show | day6,Confirmed Re-entry,44.0,48.0,4.0,4.0,Rank Improved,Welcome to the Show,DAY6,2025-09-07,74,4.0,14.285714285714285,34.27230046948357,20.28,Low Momentum,album
+2025-09-09,if i have you only (my love x nerd connection) | nerd connection,Confirmed Re-entry,43.0,48.0,5.0,5.0,Rank Improved,If I have you only (My love X Nerd Connection),Nerd Connection,2025-09-09,2,5.0,17.857142857142854,0.4694835680751174,12.64,Low Momentum,single
+2025-09-09,small girl (feat. d.o.) | lee young ji,Confirmed Re-entry,44.0,43.0,-1.0,-1.0,Rank Declined,Small girl (feat. D.O.),Lee Young Ji,2025-09-09,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-09-13,who (rock remix) | jimin,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,Who (Rock Remix),Jimin,2025-09-13,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-09-13,small girl (feat. d.o.) | lee young ji,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,Small girl (feat. D.O.),Lee Young Ji,2025-09-13,19,0.0,0.0,8.450704225352112,2.54,Low Momentum,single
+2025-09-13,ditto | newjeans,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,Ditto,NewJeans,2025-09-13,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-09-14,hype boy | newjeans,Confirmed Re-entry,50.0,46.0,-4.0,-4.0,Rank Declined,Hype Boy,NewJeans,2025-09-14,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-09-15,if i have you only (my love x nerd connection) | nerd connection,Confirmed Re-entry,50.0,43.0,-7.0,-7.0,Rank Declined,If I have you only (My love X Nerd Connection),Nerd Connection,2025-09-15,12,0.0,0.0,5.164319248826291,1.55,Low Momentum,single
+2025-09-16,hype boy | newjeans,Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,Hype Boy,NewJeans,2025-09-16,5,6.0,21.428571428571427,1.8779342723004695,15.56,Low Momentum,single
+2025-09-16,you were beautiful | day6,Confirmed Re-entry,47.0,49.0,2.0,2.0,Rank Improved,You Were Beautiful,DAY6,2025-09-16,19,2.0,7.142857142857142,8.450704225352112,7.54,Low Momentum,album
+2025-09-16,ditto | newjeans,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Ditto,NewJeans,2025-09-16,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,single
+2025-09-17,pump up the volume! | plave,Confirmed Re-entry,47.0,45.0,-2.0,-2.0,Rank Declined,Pump Up The Volume!,PLAVE,2025-09-17,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,single
+2025-09-18,cruel summer | taylor swift,Confirmed Re-entry,49.0,43.0,-6.0,-6.0,Rank Declined,Cruel Summer,Taylor Swift,2025-09-18,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-09-19,t.b.h | qwer,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,T.B.H,QWER,2025-09-19,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-09-19,super shy | newjeans,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Super Shy,NewJeans,2025-09-19,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-09-20,taste | sabrina carpenter,Confirmed Re-entry,47.0,48.0,1.0,1.0,Rank Improved,Taste,Sabrina Carpenter,2025-09-20,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,album
+2025-09-20,boom boom bass | riize,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,Boom Boom Bass,RIIZE,2025-09-20,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-09-21,who (acoustic remix) | jimin,Confirmed Re-entry,50.0,45.0,-5.0,-5.0,Rank Declined,Who (Acoustic Remix),Jimin,2025-09-21,8,0.0,0.0,3.286384976525822,0.99,Low Momentum,album
+2025-09-21,who (rock remix) | jimin,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Who (Rock Remix),Jimin,2025-09-21,45,0.0,0.0,20.657276995305164,6.2,Low Momentum,album
+2025-09-22,who (shibuyakei remix) | jimin,Confirmed Re-entry,31.0,45.0,14.0,14.0,Rank Improved,Who (Shibuyakei Remix),Jimin,2025-09-22,3,14.0,50.0,0.9389671361502347,35.28,Low Momentum,album
+2025-09-22,supernova | aespa,Confirmed Re-entry,19.0,17.0,-2.0,-2.0,Rank Declined,Supernova,aespa,2025-09-22,67,0.0,0.0,30.985915492957744,9.3,Low Momentum,single
+2025-09-22,who (funky remix) | jimin,Confirmed Re-entry,34.0,42.0,8.0,8.0,Rank Improved,Who (Funky Remix),Jimin,2025-09-22,3,8.0,28.57142857142857,0.9389671361502347,20.28,Low Momentum,album
+2025-09-22,who (beautiful mind remix) | jimin,Confirmed Re-entry,32.0,49.0,17.0,17.0,Rank Improved,Who (Beautiful Mind Remix),Jimin,2025-09-22,3,17.0,60.71428571428571,0.9389671361502347,42.78,Moderate Momentum,album
+2025-09-22,armageddon | aespa,Confirmed Re-entry,38.0,28.0,-10.0,-10.0,Rank Declined,Armageddon,aespa,2025-09-22,14,0.0,0.0,6.103286384976527,1.83,Low Momentum,album
+2025-09-22,who (instrumental) | jimin,Confirmed Re-entry,30.0,45.0,15.0,15.0,Rank Improved,Who (Instrumental),Jimin,2025-09-22,3,15.0,53.57142857142857,0.9389671361502347,37.78,Low Momentum,album
+2025-09-23,hype boy | newjeans,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Hype Boy,NewJeans,2025-09-23,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-09-23,bubble gum | newjeans,Confirmed Re-entry,49.0,42.0,-7.0,-7.0,Rank Declined,Bubble Gum,NewJeans,2025-09-23,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-09-23,boom boom bass | riize,Confirmed Re-entry,45.0,44.0,-1.0,-1.0,Rank Declined,Boom Boom Bass,RIIZE,2025-09-23,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-09-25,踊り子 | vaundy,Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,踊り子,Vaundy,2025-09-25,2,6.0,21.428571428571427,0.4694835680751174,15.14,Low Momentum,album
+2025-09-25,taste | sabrina carpenter,Confirmed Re-entry,47.0,43.0,-4.0,-4.0,Rank Declined,Taste,Sabrina Carpenter,2025-09-25,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-09-25,ditto | newjeans,Confirmed Re-entry,45.0,49.0,4.0,4.0,Rank Improved,Ditto,NewJeans,2025-09-25,1,4.0,14.285714285714285,0.0,10.0,Low Momentum,single
+2025-09-25,double take | dhruv,Confirmed Re-entry,39.0,49.0,10.0,10.0,Rank Improved,double take,Dhruv,2025-09-25,2,10.0,35.71428571428571,0.4694835680751174,25.14,Low Momentum,album
+2025-09-26,who (instrumental) | jimin,Confirmed Re-entry,50.0,41.0,-9.0,-9.0,Rank Declined,Who (Instrumental),Jimin,2025-09-26,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,album
+2025-09-27,who (shibuyakei remix) | jimin,Confirmed Re-entry,47.0,44.0,-3.0,-3.0,Rank Declined,Who (Shibuyakei Remix),Jimin,2025-09-27,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-09-27,who (beautiful mind remix) | jimin,Confirmed Re-entry,45.0,45.0,0.0,0.0,No Rank Change,Who (Beautiful Mind Remix),Jimin,2025-09-27,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-09-27,who (funky remix) | jimin,Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,Who (Funky Remix),Jimin,2025-09-27,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-09-28,taste | sabrina carpenter,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,Taste,Sabrina Carpenter,2025-09-28,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-09-28,bubble gum | newjeans,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Bubble Gum,NewJeans,2025-09-28,3,0.0,0.0,0.9389671361502347,0.28,Low Momentum,single
+2025-09-29,if i have you only (my love x nerd connection) | nerd connection,Confirmed Re-entry,42.0,46.0,4.0,4.0,Rank Improved,If I have you only (My love X Nerd Connection),Nerd Connection,2025-09-29,22,4.0,14.285714285714285,9.859154929577466,12.96,Low Momentum,single
+2025-09-29,hype boy | newjeans,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Hype Boy,NewJeans,2025-09-29,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-09-29,pleasure shop | key,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Pleasure Shop,KEY,2025-09-29,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2025-09-29,t.b.h | qwer,Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,T.B.H,QWER,2025-09-29,9,6.0,21.428571428571427,3.755868544600939,16.13,Low Momentum,single
+2025-09-30,who (shibuyakei remix) | jimin,Confirmed Re-entry,46.0,43.0,-3.0,-3.0,Rank Declined,Who (Shibuyakei Remix),Jimin,2025-09-30,18,0.0,0.0,7.981220657276995,2.39,Low Momentum,album
+2025-09-30,who (beautiful mind remix) | jimin,Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,Who (Beautiful Mind Remix),Jimin,2025-09-30,18,0.0,0.0,7.981220657276995,2.39,Low Momentum,album
+2025-09-30,double take | dhruv,Confirmed Re-entry,47.0,44.0,-3.0,-3.0,Rank Declined,double take,Dhruv,2025-09-30,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-09-30,who (acoustic remix) | jimin,Confirmed Re-entry,44.0,39.0,-5.0,-5.0,Rank Declined,Who (Acoustic Remix),Jimin,2025-09-30,36,0.0,0.0,16.431924882629108,4.93,Low Momentum,album
+2025-09-30,who (instrumental) | jimin,Confirmed Re-entry,48.0,42.0,-6.0,-6.0,Rank Declined,Who (Instrumental),Jimin,2025-09-30,34,0.0,0.0,15.492957746478872,4.65,Low Momentum,album
+2025-10-01,if we ever meet again | lim young woong,Confirmed Re-entry,48.0,43.0,-5.0,-5.0,Rank Declined,If We Ever Meet Again,Lim Young Woong,2025-10-01,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,album
+2025-10-01,who (funky remix) | jimin,Confirmed Re-entry,41.0,44.0,3.0,3.0,Rank Improved,Who (Funky Remix),Jimin,2025-10-01,14,3.0,10.714285714285714,6.103286384976527,9.33,Low Momentum,album
+2025-10-02,steady | nct wish,Confirmed Re-entry,48.0,37.0,-11.0,-11.0,Rank Declined,Steady,NCT WISH,2025-10-02,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-10-02,bubble gum | newjeans,Confirmed Re-entry,50.0,45.0,-5.0,-5.0,Rank Declined,Bubble Gum,NewJeans,2025-10-02,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-10-03,double take | dhruv,Confirmed Re-entry,48.0,49.0,1.0,1.0,Rank Improved,double take,Dhruv,2025-10-03,7,1.0,3.571428571428571,2.8169014084507045,3.35,Low Momentum,album
+2025-10-04,nice guy | boynextdoor,Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,Nice Guy,BOYNEXTDOOR,2025-10-04,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-10-05,ditto | newjeans,Confirmed Re-entry,50.0,45.0,-5.0,-5.0,Rank Declined,Ditto,NewJeans,2025-10-05,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-10-06,armageddon | aespa & grimes & flava d,Confirmed Re-entry,36.0,31.0,-5.0,-5.0,Rank Declined,Armageddon,aespa & Grimes & Flava D,2025-10-06,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-10-06,time of our life -japanese ver.- - japanese ver. | day6,Confirmed Re-entry,37.0,41.0,4.0,4.0,Rank Improved,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,2025-10-06,1,4.0,14.285714285714285,0.0,10.0,Low Momentum,single
+2025-10-06,melt down | day6,Confirmed Re-entry,40.0,37.0,-3.0,-3.0,Rank Declined,Melt Down,DAY6,2025-10-06,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-10-06,you were beautiful | day6,Confirmed Re-entry,44.0,46.0,2.0,2.0,Rank Improved,You Were Beautiful,DAY6,2025-10-06,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,album
+2025-10-06,bubble gum | newjeans,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,Bubble Gum,NewJeans,2025-10-06,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2025-10-07,한 페이지가 될 수 있게 | day6,Confirmed Re-entry,35.0,36.0,1.0,1.0,Rank Improved,한 페이지가 될 수 있게,DAY6,2025-10-07,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2025-10-07,녹아내려요 melt down | day6,Confirmed Re-entry,40.0,30.0,-10.0,-10.0,Rank Declined,녹아내려요 Melt Down,DAY6,2025-10-07,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-10-07,예뻤어 | day6,Confirmed Re-entry,44.0,43.0,-1.0,-1.0,Rank Declined,예뻤어,DAY6,2025-10-07,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-10-07,if we ever meet again | lim young woong,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,If We Ever Meet Again,Lim Young Woong,2025-10-07,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,album
+2025-10-07,armageddon | aespa,Confirmed Re-entry,33.0,39.0,6.0,6.0,Rank Improved,Armageddon,aespa,2025-10-07,44,6.0,21.428571428571427,20.187793427230048,21.06,Low Momentum,album
+2025-10-08,melt down | day6,Confirmed Re-entry,41.0,40.0,-1.0,-1.0,Rank Declined,Melt Down,DAY6,2025-10-08,23,0.0,0.0,10.328638497652582,3.1,Low Momentum,album
+2025-10-08,you were beautiful | day6,Confirmed Re-entry,49.0,44.0,-5.0,-5.0,Rank Declined,You Were Beautiful,DAY6,2025-10-08,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-10-08,time of our life -japanese ver.- - japanese ver. | day6,Confirmed Re-entry,40.0,37.0,-3.0,-3.0,Rank Declined,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,2025-10-08,51,0.0,0.0,23.474178403755868,7.04,Low Momentum,single
+2025-10-09,eta | newjeans,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,ETA,NewJeans,2025-10-09,7,1.0,3.571428571428571,2.8169014084507045,3.35,Low Momentum,single
+2025-10-10,t.b.h | qwer,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,T.B.H,QWER,2025-10-10,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-10-12,drama | aespa,Confirmed Re-entry,47.0,48.0,1.0,1.0,Rank Improved,Drama,aespa,2025-10-12,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,album
+2025-10-12,ditto | newjeans,Confirmed Re-entry,45.0,50.0,5.0,5.0,Rank Improved,Ditto,NewJeans,2025-10-12,5,5.0,17.857142857142854,1.8779342723004695,13.06,Low Momentum,single
+2025-10-13,hype boy | newjeans,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,Hype Boy,NewJeans,2025-10-13,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-10-13,omg | newjeans,Confirmed Re-entry,41.0,44.0,3.0,3.0,Rank Improved,OMG,NewJeans,2025-10-13,2,3.0,10.714285714285714,0.4694835680751174,7.64,Low Momentum,single
+2025-10-14,you were beautiful | day6,Confirmed Re-entry,38.0,49.0,11.0,11.0,Rank Improved,You Were Beautiful,DAY6,2025-10-14,6,11.0,39.285714285714285,2.3474178403755865,28.2,Low Momentum,album
+2025-10-14,bubble gum | newjeans,Confirmed Re-entry,50.0,48.0,-2.0,-2.0,Rank Declined,Bubble Gum,NewJeans,2025-10-14,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-10-15,t.b.h | qwer,Confirmed Re-entry,47.0,49.0,2.0,2.0,Rank Improved,T.B.H,QWER,2025-10-15,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2025-10-15,london boy | lim young woong,Confirmed Re-entry,45.0,45.0,0.0,0.0,No Rank Change,London Boy,Lim Young Woong,2025-10-15,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-10-16,who (funky remix) | jimin,Confirmed Re-entry,48.0,47.0,-1.0,-1.0,Rank Declined,Who (Funky Remix),Jimin,2025-10-16,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-10-17,t.b.h | qwer,Confirmed Re-entry,48.0,47.0,-1.0,-1.0,Rank Declined,T.B.H,QWER,2025-10-17,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-10-18,eta | newjeans,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,ETA,NewJeans,2025-10-18,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-10-18,ditto | newjeans,Confirmed Re-entry,39.0,50.0,11.0,11.0,Rank Improved,Ditto,NewJeans,2025-10-18,1,11.0,39.285714285714285,0.0,27.5,Low Momentum,single
+2025-10-19,double take | dhruv,Confirmed Re-entry,41.0,50.0,9.0,9.0,Rank Improved,double take,Dhruv,2025-10-19,4,9.0,32.14285714285714,1.4084507042253522,22.92,Low Momentum,album
+2025-10-19,who (shibuyakei remix) | jimin,Confirmed Re-entry,39.0,38.0,-1.0,-1.0,Rank Declined,Who (Shibuyakei Remix),Jimin,2025-10-19,15,0.0,0.0,6.572769953051644,1.97,Low Momentum,album
+2025-10-19,who (beautiful mind remix) | jimin,Confirmed Re-entry,44.0,43.0,-1.0,-1.0,Rank Declined,Who (Beautiful Mind Remix),Jimin,2025-10-19,7,0.0,0.0,2.8169014084507045,0.85,Low Momentum,album
+2025-10-19,who (funky remix) | jimin,Confirmed Re-entry,47.0,44.0,-3.0,-3.0,Rank Declined,Who (Funky Remix),Jimin,2025-10-19,7,0.0,0.0,2.8169014084507045,0.85,Low Momentum,album
+2025-10-20,eta | newjeans,Confirmed Re-entry,45.0,50.0,5.0,5.0,Rank Improved,ETA,NewJeans,2025-10-20,2,5.0,17.857142857142854,0.4694835680751174,12.64,Low Momentum,single
+2025-10-21,sticky | kiss of life,Confirmed Re-entry,49.0,40.0,-9.0,-9.0,Rank Declined,Sticky,KISS OF LIFE,2025-10-21,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-10-21,you were beautiful | day6,Confirmed Re-entry,33.0,46.0,13.0,13.0,Rank Improved,You Were Beautiful,DAY6,2025-10-21,3,13.0,46.42857142857142,0.9389671361502347,32.78,Low Momentum,album
+2025-10-21,new jeans | newjeans,Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,New Jeans,NewJeans,2025-10-21,1,6.0,21.428571428571427,0.0,15.0,Low Momentum,single
+2025-10-21,spot! | zico & jennie,Confirmed Re-entry,45.0,47.0,2.0,2.0,Rank Improved,SPOT!,ZICO & JENNIE,2025-10-21,2,2.0,7.142857142857142,0.4694835680751174,5.14,Low Momentum,single
+2025-10-22,grain of sand | lim young woong,Confirmed Re-entry,47.0,49.0,2.0,2.0,Rank Improved,Grain of Sand,Lim Young Woong,2025-10-22,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,single
+2025-10-22,nemonemo | yena,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,NEMONEMO,YENA,2025-10-22,2,2.0,7.142857142857142,0.4694835680751174,5.14,Low Momentum,single
+2025-10-22,if i have you only (my love x nerd connection) | nerd connection,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,If I have you only (My love X Nerd Connection),Nerd Connection,2025-10-22,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-10-22,do or die | lim young woong,Confirmed Re-entry,46.0,43.0,-3.0,-3.0,Rank Declined,Do or Die,Lim Young Woong,2025-10-22,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-10-23,ditto | newjeans,Confirmed Re-entry,48.0,39.0,-9.0,-9.0,Rank Declined,Ditto,NewJeans,2025-10-23,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-10-24,double take | dhruv,Confirmed Re-entry,40.0,49.0,9.0,9.0,Rank Improved,double take,Dhruv,2025-10-24,6,9.0,32.14285714285714,2.3474178403755865,23.2,Low Momentum,album
+2025-10-24,pump up the volume! | plave,Confirmed Re-entry,47.0,47.0,0.0,0.0,No Rank Change,Pump Up The Volume!,PLAVE,2025-10-24,10,0.0,0.0,4.225352112676056,1.27,Low Momentum,single
+2025-10-24,"how can i love the heartbreak, you're the one i love | akmu",Confirmed Re-entry,44.0,44.0,0.0,0.0,No Rank Change,"How can I love the heartbreak, you're the one I love",AKMU,2025-10-24,24,0.0,0.0,10.7981220657277,3.24,Low Momentum,album
+2025-10-25,meow | meovv,Confirmed Re-entry,45.0,47.0,2.0,2.0,Rank Improved,MEOW,MEOVV,2025-10-25,2,2.0,7.142857142857142,0.4694835680751174,5.14,Low Momentum,single
+2025-10-25,nemonemo | yena,Confirmed Re-entry,50.0,44.0,-6.0,-6.0,Rank Declined,NEMONEMO,YENA,2025-10-25,4,0.0,0.0,1.4084507042253522,0.42,Low Momentum,single
+2025-10-25,way 4 luv | plave,Confirmed Re-entry,47.0,48.0,1.0,1.0,Rank Improved,WAY 4 LUV,PLAVE,2025-10-25,3,1.0,3.571428571428571,0.9389671361502347,2.78,Low Momentum,single
+2025-10-26,you were beautiful | day6,Confirmed Re-entry,49.0,46.0,-3.0,-3.0,Rank Declined,You Were Beautiful,DAY6,2025-10-26,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-10-26,eta | newjeans,Confirmed Re-entry,43.0,42.0,-1.0,-1.0,Rank Declined,ETA,NewJeans,2025-10-26,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-10-27,who (funky remix) | jimin,Confirmed Re-entry,47.0,46.0,-1.0,-1.0,Rank Declined,Who (Funky Remix),Jimin,2025-10-27,6,0.0,0.0,2.3474178403755865,0.7,Low Momentum,album
+2025-10-27,who (beautiful mind remix) | jimin,Confirmed Re-entry,46.0,42.0,-4.0,-4.0,Rank Declined,Who (Beautiful Mind Remix),Jimin,2025-10-27,6,0.0,0.0,2.3474178403755865,0.7,Low Momentum,album
+2025-10-27,the astronaut | jin,Confirmed Re-entry,32.0,50.0,18.0,18.0,Rank Improved,The Astronaut,JIN,2025-10-27,6,18.0,64.28571428571428,2.3474178403755865,45.7,Moderate Momentum,single
+2025-10-28,you were beautiful | day6,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,You Were Beautiful,DAY6,2025-10-28,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-10-29,warmth | lim young woong,Confirmed Re-entry,50.0,47.0,-3.0,-3.0,Rank Declined,Warmth,Lim Young Woong,2025-10-29,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-10-31,double take | dhruv,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,double take,Dhruv,2025-10-31,9,0.0,0.0,3.755868544600939,1.13,Low Momentum,album
+2025-11-01,melt down | day6,Confirmed Re-entry,46.0,48.0,2.0,2.0,Rank Improved,Melt Down,DAY6,2025-11-01,7,2.0,7.142857142857142,2.8169014084507045,5.85,Low Momentum,album
+2025-11-01,nemonemo | yena,Confirmed Re-entry,48.0,50.0,2.0,2.0,Rank Improved,NEMONEMO,YENA,2025-11-01,3,2.0,7.142857142857142,0.9389671361502347,5.28,Low Momentum,single
+2025-11-01,home | lim young woong,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Home,Lim Young Woong,2025-11-01,22,0.0,0.0,9.859154929577466,2.96,Low Momentum,single
+2025-11-01,warmth | lim young woong,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,Warmth,Lim Young Woong,2025-11-01,24,1.0,3.571428571428571,10.7981220657277,5.74,Low Momentum,single
+2025-11-02,you were beautiful | day6,Confirmed Re-entry,42.0,43.0,1.0,1.0,Rank Improved,You Were Beautiful,DAY6,2025-11-02,4,1.0,3.571428571428571,1.4084507042253522,2.92,Low Momentum,album
+2025-11-03,who (funky remix) | jimin,Confirmed Re-entry,50.0,42.0,-8.0,-8.0,Rank Declined,Who (Funky Remix),Jimin,2025-11-03,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-11-03,grain of sand | lim young woong,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,Grain of Sand,Lim Young Woong,2025-11-03,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-11-03,do or die | lim young woong,Confirmed Re-entry,45.0,49.0,4.0,4.0,Rank Improved,Do or Die,Lim Young Woong,2025-11-03,14,4.0,14.285714285714285,6.103286384976527,11.83,Low Momentum,single
+2025-11-04,who (instrumental) | jimin,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,Who (Instrumental),Jimin,2025-11-04,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,album
+2025-11-04,who (shibuyakei remix) | jimin,Confirmed Re-entry,42.0,48.0,6.0,6.0,Rank Improved,Who (Shibuyakei Remix),Jimin,2025-11-04,1,6.0,21.428571428571427,0.0,15.0,Low Momentum,album
+2025-11-04,who (beautiful mind remix) | jimin,Confirmed Re-entry,48.0,43.0,-5.0,-5.0,Rank Declined,Who (Beautiful Mind Remix),Jimin,2025-11-04,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-11-05,nemonemo | yena,Confirmed Re-entry,44.0,48.0,4.0,4.0,Rank Improved,NEMONEMO,YENA,2025-11-05,2,4.0,14.285714285714285,0.4694835680751174,10.14,Low Momentum,single
+2025-11-05,eta | newjeans,Confirmed Re-entry,47.0,43.0,-4.0,-4.0,Rank Declined,ETA,NewJeans,2025-11-05,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-11-05,ditto | newjeans,Confirmed Re-entry,48.0,48.0,0.0,0.0,No Rank Change,Ditto,NewJeans,2025-11-05,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-11-05,grain of sand | lim young woong,Confirmed Re-entry,46.0,49.0,3.0,3.0,Rank Improved,Grain of Sand,Lim Young Woong,2025-11-05,18,3.0,10.714285714285714,7.981220657276995,9.89,Low Momentum,single
+2025-11-05,london boy | lim young woong,Confirmed Re-entry,49.0,45.0,-4.0,-4.0,Rank Declined,London Boy,Lim Young Woong,2025-11-05,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-11-06,who (shibuyakei remix) | jimin,Confirmed Re-entry,37.0,42.0,5.0,5.0,Rank Improved,Who (Shibuyakei Remix),Jimin,2025-11-06,13,5.0,17.857142857142854,5.633802816901409,14.19,Low Momentum,album
+2025-11-06,who (funky remix) | jimin,Confirmed Re-entry,40.0,46.0,6.0,6.0,Rank Improved,Who (Funky Remix),Jimin,2025-11-06,12,6.0,21.428571428571427,5.164319248826291,16.55,Low Momentum,album
+2025-11-06,who (rock remix) | jimin,Confirmed Re-entry,35.0,39.0,4.0,4.0,Rank Improved,Who (Rock Remix),Jimin,2025-11-06,22,4.0,14.285714285714285,9.859154929577466,12.96,Low Momentum,album
+2025-11-06,who (beautiful mind remix) | jimin,Confirmed Re-entry,41.0,48.0,7.0,7.0,Rank Improved,Who (Beautiful Mind Remix),Jimin,2025-11-06,11,7.0,25.0,4.694835680751174,18.91,Low Momentum,album
+2025-11-06,who (acoustic remix) | jimin,Confirmed Re-entry,36.0,40.0,4.0,4.0,Rank Improved,Who (Acoustic Remix),Jimin,2025-11-06,22,4.0,14.285714285714285,9.859154929577466,12.96,Low Momentum,album
+2025-11-06,who (instrumental) | jimin,Confirmed Re-entry,43.0,47.0,4.0,4.0,Rank Improved,Who (Instrumental),Jimin,2025-11-06,11,4.0,14.285714285714285,4.694835680751174,11.41,Low Momentum,album
+2025-11-07,you were beautiful | day6,Confirmed Re-entry,48.0,38.0,-10.0,-10.0,Rank Declined,You Were Beautiful,DAY6,2025-11-07,14,0.0,0.0,6.103286384976527,1.83,Low Momentum,album
+2025-11-08,london boy | lim young woong,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,London Boy,Lim Young Woong,2025-11-08,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-11-09,crooked | g-dragon,Confirmed Re-entry,47.0,40.0,-7.0,-7.0,Rank Declined,CROOKED,G-DRAGON,2025-11-09,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-11-10,melt down | day6,Confirmed Re-entry,42.0,50.0,8.0,8.0,Rank Improved,Melt Down,DAY6,2025-11-10,4,8.0,28.57142857142857,1.4084507042253522,20.42,Low Momentum,album
+2025-11-11,that's what i like | bruno mars,Confirmed Re-entry,45.0,43.0,-2.0,-2.0,Rank Declined,That's What I Like,Bruno Mars,2025-11-11,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,album
+2025-11-12,nemonemo | yena,Confirmed Re-entry,49.0,47.0,-2.0,-2.0,Rank Declined,NEMONEMO,YENA,2025-11-12,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-11-13,london boy | lim young woong,Confirmed Re-entry,49.0,50.0,1.0,1.0,Rank Improved,London Boy,Lim Young Woong,2025-11-13,2,1.0,3.571428571428571,0.4694835680751174,2.64,Low Momentum,single
+2025-11-15,touch | katseye,Confirmed Re-entry,50.0,39.0,-11.0,-11.0,Rank Declined,Touch,KATSEYE,2025-11-15,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-11-16,london boy | lim young woong,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,London Boy,Lim Young Woong,2025-11-16,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-11-18,who (instrumental) | jimin,Confirmed Re-entry,50.0,40.0,-10.0,-10.0,Rank Declined,Who (Instrumental),Jimin,2025-11-18,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-11-18,"how can i love the heartbreak, you're the one i love | akmu",Confirmed Re-entry,49.0,48.0,-1.0,-1.0,Rank Declined,"How can I love the heartbreak, you're the one I love",AKMU,2025-11-18,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-11-19,drowning | woodz,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Drowning,WOODZ,2025-11-19,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-11-19,london boy | lim young woong,Confirmed Re-entry,50.0,50.0,0.0,0.0,No Rank Change,London Boy,Lim Young Woong,2025-11-19,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-11-19,do or die | lim young woong,Confirmed Re-entry,46.0,47.0,1.0,1.0,Rank Improved,Do or Die,Lim Young Woong,2025-11-19,1,1.0,3.571428571428571,0.0,2.5,Low Momentum,single
+2025-11-20,who (shibuyakei remix) | jimin,Confirmed Re-entry,41.0,48.0,7.0,7.0,Rank Improved,Who (Shibuyakei Remix),Jimin,2025-11-20,8,7.0,25.0,3.286384976525822,18.49,Low Momentum,album
+2025-11-20,who (funky remix) | jimin,Confirmed Re-entry,46.0,50.0,4.0,4.0,Rank Improved,Who (Funky Remix),Jimin,2025-11-20,8,4.0,14.285714285714285,3.286384976525822,10.99,Low Momentum,album
+2025-11-20,who (beautiful mind remix) | jimin,Confirmed Re-entry,45.0,41.0,-4.0,-4.0,Rank Declined,Who (Beautiful Mind Remix),Jimin,2025-11-20,8,0.0,0.0,3.286384976525822,0.99,Low Momentum,album
+2025-11-20,who (instrumental) | jimin,Confirmed Re-entry,44.0,50.0,6.0,6.0,Rank Improved,Who (Instrumental),Jimin,2025-11-20,8,6.0,21.428571428571427,3.286384976525822,15.99,Low Momentum,album
+2025-11-21,armageddon | aespa,Confirmed Re-entry,50.0,41.0,-9.0,-9.0,Rank Declined,Armageddon,aespa,2025-11-21,7,0.0,0.0,2.8169014084507045,0.85,Low Momentum,album
+2025-11-21,welcome to the show | day6,Confirmed Re-entry,47.0,38.0,-9.0,-9.0,Rank Declined,Welcome to the Show,DAY6,2025-11-21,6,0.0,0.0,2.3474178403755865,0.7,Low Momentum,album
+2025-11-22,drowning | woodz,Confirmed Re-entry,49.0,49.0,0.0,0.0,No Rank Change,Drowning,WOODZ,2025-11-22,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-11-22,crazy | le sserafim,Confirmed Re-entry,45.0,39.0,-6.0,-6.0,Rank Declined,CRAZY,LE SSERAFIM,2025-11-22,2,0.0,0.0,0.4694835680751174,0.14,Low Momentum,single
+2025-11-23,you were beautiful | day6,Confirmed Re-entry,46.0,48.0,2.0,2.0,Rank Improved,You Were Beautiful,DAY6,2025-11-23,1,2.0,7.142857142857142,0.0,5.0,Low Momentum,album
+2025-11-23,i will come to you | jin,Confirmed Re-entry,47.0,37.0,-10.0,-10.0,Rank Declined,I will come to you,Jin,2025-11-23,5,0.0,0.0,1.8779342723004695,0.56,Low Momentum,single
+2025-11-26,you were beautiful | day6,Confirmed Re-entry,48.0,46.0,-2.0,-2.0,Rank Declined,You Were Beautiful,DAY6,2025-11-26,1,0.0,0.0,0.0,0.0,Low Momentum,album
+2025-11-27,"무제(無題) (untitled, 2014) | g-dragon",Confirmed Re-entry,43.0,50.0,7.0,7.0,Rank Improved,"무제(無題) (Untitled, 2014)",G-DRAGON,2025-11-27,1,7.0,25.0,0.0,17.5,Low Momentum,single
+2025-11-27,tick-tack | illit,Confirmed Re-entry,50.0,49.0,-1.0,-1.0,Rank Declined,Tick-Tack,ILLIT,2025-11-27,1,0.0,0.0,0.0,0.0,Low Momentum,single
+2025-11-27,crooked | g-dragon,Confirmed Re-entry,47.0,50.0,3.0,3.0,Rank Improved,CROOKED,G-DRAGON,2025-11-27,1,3.0,10.714285714285714,0.0,7.5,Low Momentum,album
